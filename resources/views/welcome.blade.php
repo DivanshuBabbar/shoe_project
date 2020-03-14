@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title></title>
+    <title>shoe_project</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -48,7 +48,7 @@
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
             <div class="col-2">
-              <h2 class="mb-0 site-logo"><a href="index.html" class="font-weight-bold text-uppercase">Neos</a></h2>
+              <h2 class="mb-0 site-logo"><a href="index.html" class="font-weight-bold text-uppercase">HE</a></h2>
             </div>
             <div class="col-10">
               <nav class="site-navigation text-right" role="navigation">
@@ -56,12 +56,12 @@
                   <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
 
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
-                    <li class="active"><a href="index.html">Home</a></li>
+                    <li class="active"><a href="/welcome">Home</a></li>
                     <li class="has-children">
-                      <a href="about.html">About</a>
+                      <a href="">About</a>
                       <ul class="dropdown arrow-top">
-                        <li class="click_event"><a href="">Testimonials</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="/basic_profile">Basic Profile</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
@@ -75,7 +75,7 @@
                       </ul>
                     </li>
                     <li><a href="services.htm">Services</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="/blog">Blog</a></li>
                     <li><a href="contact.html">Contact</a></li>
                    
                   </ul>
@@ -111,8 +111,11 @@
     </div>
 
     <div class="slant-1"></div>
-
     <div class="site-section first-section">
+      <h1 style="text-align: center; color: #71bc42 !important;">Brief History Of The Concern </h1><br>
+      <p>The Concern are manufacturers , traders and retailors in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , is specialist in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
+    </div>
+    <!-- <div class="site-section first-section"> -->
      <!--  <div class="container">
         <div class="row mb-5">
           <div class="col-md-12 text-center" data-aos="fade"> 
@@ -151,9 +154,22 @@
           </div>
         </div>
       </div> -->
-    </div>
+    <!-- </div> -->
 
-    
+   <div class="site-half block">
+    <div class="img-bg-1 right" style="background-image: url('images/img_5.jpg');" data-aos="fade"></div>
+    <div class="container">
+      <div class="row no-gutters align-items-stretch">
+        <div class="col-lg-5 mr-lg-auto py-5">
+          <span class="caption d-block mb-2 font-secondary font-weight-bold">Easy To Use Templates</span>
+          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Free HTML5 Templates</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
+
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>  
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="site-half">
     <div class="img-bg-1" style="background-image: url('images/img_4.jpg');" data-aos="fade"></div>
     <div class="container">
@@ -425,13 +441,13 @@
                     <li><a href="#">Privacy</a></li>
                   </ul>
               </div>
-              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Free Templates</h3>
+             <div class="col-md-6">
+                <h3 class="footer-heading mb-4 text-white">Laces</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">HTML5 / CSS3</a></li>
-                    <li><a href="#">Clean Design</a></li>
-                    <li><a href="#">Responsive</a></li>
-                    <li><a href="#">Multi Purpose Template</a></li>
+                    <li><a href="#">hjkhh</a></li>
+                    <li><a href="#">Design</a></li>
+                    <li><a href="#">variety</a></li>
+                    <li><a href="#">Multi Purpose </a></li>
                   </ul>
               </div>
             </div>
