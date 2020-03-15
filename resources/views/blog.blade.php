@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>shoe_project</title>
+    <title>shoelacestech</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -55,13 +55,13 @@
                 <div class="container">
                   <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
 
-                  <ul class="site-menu js-clone-nav d-none d-lg-block">
+                 <ul class="site-menu js-clone-nav d-none d-lg-block">
                     <li><a href="/welcome">Home</a></li>
                     <li class="has-children">
-                      <a href="/about">About</a>
+                      <a href="">About</a>
                       <ul class="dropdown arrow-top">
-                        <li class="click_event"><a href="">Testimonials</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="/basic_profile">Basic Profile</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
@@ -75,7 +75,7 @@
                       </ul>
                     </li>
                     <li><a href="services.htm">Services</a></li>
-                    <li class="active"><a href="/blog">Blog</a></li>
+                    <li class="active" ><a href="/blog">Blog</a></li>
                     <li><a href="contact.html">Contact</a></li>
                    
                   </ul>

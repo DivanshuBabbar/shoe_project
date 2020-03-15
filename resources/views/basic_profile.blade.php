@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>shoe_project</title>
+    <title>shoelacestech</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -48,7 +48,7 @@
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
             <div class="col-2">
-              <h2 class="mb-0 site-logo"><a href="index.html" class="font-weight-bold text-uppercase">Neos</a></h2>
+              <h2 class="mb-0 site-logo"><a href="index.html" class="font-weight-bold text-uppercase">HE</a></h2>
             </div>
             <div class="col-10">
               <nav class="site-navigation text-right" role="navigation">
@@ -58,10 +58,10 @@
                   <ul class="site-menu js-clone-nav d-none d-lg-block">
                     <li><a href="/welcome">Home</a></li>
                     <li class="has-children">
-                      <a href="/about" class="active">About</a>
+                      <a href="">About</a>
                       <ul class="dropdown arrow-top">
-                        <li class="click_event"><a href="">Testimonials</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
+                        <li class="active" ><a href="/basic_profile">Basic Profile</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
