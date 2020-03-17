@@ -74,8 +74,8 @@
                         <!-- </li> -->
                       </ul>
                     </li>
-                    <li><a href="services.htm">Services</a></li>
-                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="services.htm">Footwear Industry</a></li>
+                    <li><a href="/blog">Garment Industry</a></li>
                     <li><a href="contact.html">Contact</a></li>
                    
                   </ul>
@@ -157,29 +157,42 @@
     <!-- </div> -->
 
    <div class="site-half block">
-    <div class="img-bg-1 right" style="background-image: url('images/img_5.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1 right" style="background-image: url('images/shoe.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 mr-lg-auto py-5">
-          <span class="caption d-block mb-2 font-secondary font-weight-bold">Easy To Use Templates</span>
-          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Templates</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
-
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>  
+          <span class="caption d-block mb-2 font-secondary font-weight-bold"></span>
+          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Footwear Industry Accessories</h2>
+          <p>We at Harsh Enterprises are pioneer , specialist ,reputed Shoe laces/Tapes/Cords  manufacturers with our 55 years of experience and trust earned of various footwear O.E. manufacturers & M.N.Cs . We have pleasure in Catering the following needs of Footwear Industries:.</p>
+          <ul>
+            <li>Premium Quality Cotton Yarn Shoe laces/Tapes/cords /Bindings.</li>
+            <li>Premium Quality Spun Polyester Cords/tapes/shoe laces /Bindings.</li>
+            <li>Premium Quality textured filament polyester yarn shoe laces /Tapes/Cords /Bindings.</li>
+            <li>Premium Quality Poly Propolene yarn yarn shoe laces /Tapes/Cords /Bindings.</li>
+            <li>Premium Quality Textured Monofilament polypropolene yarn shoe laces /Tapes/Cords /Bindings.</li>
+            <li>Premium Quality Nylon Yarn  shoe laces /Tapes/Cords /Bindings.</li>
+            <li>Premium Quality stiching thread yarn shoe laces /Tapes/Cords/Bindings.</li>
+            <li>High Quality with Blended Synthetic yarn yarn shoe laces /Tapes/Cords/Binding.</li>
+          </ul>
         </div>
       </div>
     </div>
   </div>
   <div class="site-half">
-    <div class="img-bg-1" style="background-image: url('images/img_4.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1" style="background-image: url('images/tapes.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 ml-lg-auto py-5">
-          <span class="caption d-block mb-2 font-secondary font-weight-bold">Outstanding Services</span>
-          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Clean Design</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
-
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>  
+          <span class="caption d-block mb-2 font-secondary font-weight-bold"> </span>
+          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Garment Industry Accessories</h2>
+          <p>We at Harsh Enterprises Have pleasure in serving Garment Industry with our entire knowledge and experience to provide for best products to our Customers . Products Offered by us:</p>
+          <ul>
+            <li>Yarn Dyed Twill Tapes</li>
+            <li>Yarn Dyed Cords</li>
+            <li>Cellulose Fused Tipped/ Metal Tipped Shoe laces , Tags.</li>
+            <li>Digital Printed Tapes</li>
+            <li>Yarn Weaved Belts</li>
+          </ul>
         </div>
       </div>
     </div>
@@ -190,11 +203,44 @@
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 mr-lg-auto py-5">
-          <span class="caption d-block mb-2 font-secondary font-weight-bold">Easy To Use Templates</span>
-          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Templates</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus aliquid eius facilis voluptatem eligendi magnam accusamus vel commodi asperiores sint rem reprehenderit nobis nesciunt veniam qui fugit doloremque numquam quod.</p>
+          <span class="caption d-block mb-2 font-secondary font-weight-bold"></span>
+          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Health Care Products Accessories</h2>
+          <p>We are premier suppliers in medical industry accessories: 
+           <b>Our Products</b> </p>
+           <ul>
+             <li>Yarn Braided Round/Flat Cords for health Equipments.</li>
+             <li>Tipped Round Flat Cords of Desired Length.</li>
+           </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora distinctio ipsam nesciunt recusandae repellendus asperiores amet.</p>  
+   <div class="site-half">
+    <div class="img-bg-1" style="background-image: url('images/img_4.jpg');" data-aos="fade"></div>
+    <div class="container">
+      <div class="row no-gutters align-items-stretch">
+        <div class="col-lg-5 ml-lg-auto py-5">
+          <span class="caption d-block mb-2 font-secondary font-weight-bold"> </span>
+          <h2 class="site-section-heading text-uppercase font-secondary mb-5">Other Industries</h2>
+          <p>We also serve some other Industries Such as:</p>
+          <ul>
+            <li>Automobile Industry</li>
+            <ol>
+              <li>Wire Braiding on Capillary for dashboard instruments.</li>
+              <li>Wire Braiding on brake Hoses.</li>
+            </ol>
+            <li>Electrical Industries</li>
+            <ol>
+              <li> Yarn braided cords/tapes for insulation of electrical appliances such as     Fans Electrical motors.</li>
+            </ol>
+            <li>Home Furnishing Industries.</li>
+            <ol>
+              <li>Yarn Dyed Cords for curtains</li>
+              <li>Fire resistant Cords for curtains</li>
+              <li>Yarn Dyed Tapes for curtains</li>
+            </ol>
+          </ul>
         </div>
       </div>
     </div>

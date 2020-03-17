@@ -74,8 +74,8 @@
                         <!-- </li> -->
                       </ul>
                     </li>
-                    <li><a href="services.htm">Services</a></li>
-                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="services.htm">Footwear Industry</a></li>
+                    <li><a href="/blog">Garment Industry</a></li>
                     <li><a href="contact.html">Contact</a></li>
                    
                   </ul>
