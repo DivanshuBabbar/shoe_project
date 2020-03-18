@@ -47,8 +47,8 @@
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
-            <div class="col-2">
-              <h2 class="mb-0 site-logo"><a href="index.html" class="font-weight-bold text-uppercase">HE</a></h2>
+            <div class="col-6 col-xl-2">
+              <h1 class="mb-3"><a href="/welcome" class="text-black h3 mb-3"><img src="images/logo.png" width="55" height="30"></a></h1>
             </div>
             <div class="col-10">
               <nav class="site-navigation text-right" role="navigation">
@@ -112,8 +112,10 @@
 
     <div class="slant-1"></div>
     <div class="site-section first-section">
-      <h1 style="text-align: center; color: #71bc42 !important;">Brief History Of The Concern </h1><br>
-      <p>The Concern are manufacturers , traders and retailors in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , is specialist in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
+      <div class="col-md-12">
+        <h1 style="text-align: center; color: #71bc42 !important;">Brief History Of The Concern </h1><br>
+        <p>The Concern are manufacturers , traders and retailors in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , is specialist in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
+      </div>
     </div>
     <!-- <div class="site-section first-section"> -->
      <!--  <div class="container">
