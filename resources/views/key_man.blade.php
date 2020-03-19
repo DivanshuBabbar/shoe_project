@@ -47,8 +47,8 @@
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
-             <div class="col-6 col-xl-2">
-              <h1 class="mb-3"><a href="/welcome" class="text-black h3 mb-3"><img src="images/logo.png" width="55" height="30"></a></h1>
+            <div class="col-2 col-xl-2">
+              <h1 class="mb-3"><a href="/welcome" class="text-black h2 mb-3"><img src="images/logo.png" width="52" height="42"></a></h1>
             </div>
             <div class="col-10">
               <nav class="site-navigation text-right" role="navigation">
