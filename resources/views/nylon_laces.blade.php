@@ -30,7 +30,7 @@
 
   <div class="site-wrap">
 
-
+    
 
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
@@ -47,7 +47,7 @@
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
-            <div class="col-2 col-xl-2">
+              <div class="col-2 col-xl-2">
               <h1 class="mb-3"><a href="/welcome" class="text-black h2 mb-3"><img src="images/logo.png" width="52" height="42"></a></h1>
             </div>
             <div class="col-10">
@@ -61,7 +61,7 @@
                       <a href="">About</a>
                       <ul class="dropdown arrow-top">
                         <li><a href="/basic_profile">Basic Profile</a></li>
-                        <li class="active" ><a href="/key_man">Key Man</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
@@ -74,10 +74,10 @@
                         <!-- </li> -->
                       </ul>
                     </li>
-                    <li class="has-children">
+                    <li class="has-children ">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="nylon_laces">Nylon Shoe Laces</a></li>
+                        <li class="active"><a href="/nylon_laces">Nylon Shoe Laces</a></li>
                         <li><a href="">Polyester</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
@@ -95,68 +95,51 @@
       </div>
     </div>
   
-    <div class="slide-one-item home-slider owl-carousel">
-      
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1>
-            </div>
+  <!--   <div class="container mt-5 mb-4">
+      <h3 style="text-align: center;"><b></b></h3>
+    </div> -->
+   
+
+    <div class="site-section ">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="site-section-heading text-uppercase text-center font-secondary">NYLON SHOE LACES</h2>
+             <span class="caption d-block mb-2 font-secondary font-weight-bold">Flat shoe laces</span>
           </div>
         </div>
-      </div>  
 
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Content heading</h1>
+        <div class="row">
+          <div class="column_img">
+            <img src="images/20200321_105904.jpg" alt="Snow" style="width:100%">
+            <div class="media-image-body">
+              <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
+              <p>Flat shoe laces.</p>
+              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
           </div>
-        </div>
-      </div> 
+          <div class="column_img">
+            <img src="images/20200321_112754.jpg" alt="Forest" style="width:100%">
+            <div class="media-image-body">
+              <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
+              <p>Flat shoe laces.</p>
+              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+            </div>
+          </div>
+          <div class="column_img">
+            <img src="images/20200321_113051.jpg" alt="Mountains" style="width:100%">
+            <div class="media-image-body">
+                <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
+                <p>Flat shoe laces.</p>
+                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+              </div>
+          </div>
+       </div>
+      </div>
     </div>
 
-    <div class="slant-1"></div>
-    <div class="site-section first-section">
-        <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
-      <ul>
-        <li>Vinay Arora :
-          <ul>
-            <li> Designation : Partner </li>
-            <li>  Education : Qualified Enterprenuer</li>
-            <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
-            <li> Mobile : 9313333243</li>
-          </ul> 
-        </li>
-        <li>Davinder Arora:
-          <ul>
-            <li>  Designation : CFO </li>
-            <li>   Education    : Chartered Accountants</li>
-            <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
-            <li>Mobile : 9350868641, 9811078355</li>
-            <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
-          </ul> 
-        </li>
-        <li>Anmol Arora  :
-          <ul>
-            <li> Designation : Executive </li>
-            <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
-            <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
-            <li> Mobile : 9999667721</li>
-          </ul> 
-        </li>
-        <li>Vaibhav Arora:
-          <ul>
-            <li> Designation: Executive</li>
-            <li> Education: Graduate </li>
-            <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
-          </ul> 
-        </li>
-      </ul>
-    </div>
     
+       
 
     <footer class="site-footer bg-dark">
       <div class="container">

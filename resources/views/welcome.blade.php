@@ -74,9 +74,17 @@
                         <!-- </li> -->
                       </ul>
                     </li>
-                    <li><a href="services.htm">Footwear Industry</a></li>
+                    <li class="has-children">
+                      <a href="/footwear_industry">Footwear Industry</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="/nylon_laces">Nylon Shoe Laces</a></li>
+                        <li><a href="">Polyester</a></li>
+                        <li><a href="">Tapes</a></li>
+                        <li><a href="">Cords</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/blog">Garment Industry</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="/contact">Contact</a></li>
                    
                   </ul>
                 </div>

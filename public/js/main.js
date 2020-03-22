@@ -12,6 +12,34 @@
  	
  });
 
+ $(document).on("click", ".send_email", function(e) {
+ var fname = $("input[name=fname]").val();
+ var lname = $("input[name=lname]").val();
+ var email = $("input[name=email]").val();
+ var subject = $("input[name=subject]").val();
+ var message = $('#message').val();
+ 
+ $.ajax({
+	    type: "post",
+	    headers: {
+        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+         },
+	    url: "/admin_email",
+	    contentType: "application/x-www-form-urlencoded",
+	    data: { fname: fname , lname: lname , email: email , subject : subject , message : message },
+	    success: function(data, ) {
+	    	$(".mail_form").trigger("reset");
+	      Swal.fire({
+		        type: "success",
+		        title: "Mail Sent Successfully. We will get back to you shortly",
+		        showConfirmButton: false,
+		        timer: 2000
+	       });
+
+	    }
+    });
+});
+
 jQuery(document).ready(function($) {
 
 	"use strict";

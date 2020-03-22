@@ -1,4 +1,12 @@
 /* Base */
+
+.column_img {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
 body {
   line-height: 1.7;
   color: rgba(0, 0, 0, 0.5);
