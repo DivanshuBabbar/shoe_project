@@ -45,6 +45,7 @@ class UserController extends Controller
         return view('/nylon_laces');
     }
 
+
     public function mail(Request $request)
     {
         $fname = $request->input('fname');
