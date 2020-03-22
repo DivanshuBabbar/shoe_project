@@ -4,7 +4,7 @@
     <title>shoelacestech</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
@@ -22,15 +22,17 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
+   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.29.2/sweetalert2.all.js"></script>
     
   </head>
   <body>
   
- 
+
 
   <div class="site-wrap">
 
-
+    
 
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
@@ -47,7 +49,7 @@
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
-            <div class="col-2 col-xl-2">
+              <div class="col-2 col-xl-2">
               <h1 class="mb-3"><a href="/welcome" class="text-black h2 mb-3"><img src="images/logo.png" width="52" height="42"></a></h1>
             </div>
             <div class="col-10">
@@ -61,7 +63,7 @@
                       <a href="">About</a>
                       <ul class="dropdown arrow-top">
                         <li><a href="/basic_profile">Basic Profile</a></li>
-                        <li class="active" ><a href="/key_man">Key Man</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
@@ -77,14 +79,14 @@
                     <li class="has-children">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="nylon_laces">Nylon Shoe Laces</a></li>
+                        <li><a href="/nylon_laces">Nylon Shoe Laces</a></li>
                         <li><a href="">Polyester</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Industry</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li class="active" ><a href="/contact">Contact</a></li>
                    
                   </ul>
                 </div>
@@ -119,49 +121,109 @@
     </div>
 
     <div class="slant-1"></div>
-    <div class="site-section first-section">
-        <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
-      <ul>
-        <li>Vinay Arora :
-          <ul>
-            <li> Designation : Partner </li>
-            <li>  Education : Qualified Enterprenuer</li>
-            <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
-            <li> Mobile : 9313333243</li>
-          </ul> 
-        </li>
-        <li>Davinder Arora:
-          <ul>
-            <li>  Designation : CFO </li>
-            <li>   Education    : Chartered Accountants</li>
-            <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
-            <li>Mobile : 9350868641, 9811078355</li>
-            <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
-          </ul> 
-        </li>
-        <li>Anmol Arora  :
-          <ul>
-            <li> Designation : Executive </li>
-            <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
-            <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
-            <li> Mobile : 9999667721</li>
-          </ul> 
-        </li>
-        <li>Vaibhav Arora:
-          <ul>
-            <li> Designation: Executive</li>
-            <li> Education: Graduate </li>
-            <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
-          </ul> 
-        </li>
-      </ul>
+    <div class="site-section mb-0 bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 mb-5">
+
+            
+
+            <form  class="p-5 bg-white mail_form">
+              <input type="hidden" name="csrf" value="">
+              
+
+              <div class="row form-group">
+                <div class="col-md-6 mb-3 mb-md-0">
+                  <label class="text-black" for="fname">First Name</label>
+                  <input type="text" id="fname" name="fname" class="form-control">
+                </div>
+                <div class="col-md-6">
+                  <label class="text-black" for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lname" class="form-control">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                
+                <div class="col-md-12">
+                  <label class="text-black" for="email">Email</label> 
+                  <input type="email" id="email" name="email" class="form-control">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                
+                <div class="col-md-12">
+                  <label class="text-black" for="subject">Subject</label> 
+                  <input type="subject" id="subject" name="subject" class="form-control">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label class="text-black" for="message">Message</label> 
+                  <textarea  name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Write your notes or questions here..."></textarea>
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <button type="button" class="btn btn-primary py-2 px-4 text-white send_email">Submit</button>
+                </div>
+              </div>
+
+  
+            </form>
+          </div>
+          <div class="col-md-5">
+            
+            <div class="p-4 mb-3 bg-white">
+              <p class="mb-0 font-weight-bold">Harsh Enterprises</p>
+
+              <p class="mb-0 font-weight-bold">Address</p>
+              <p class="mb-4">5-J/43A & 44 ,New Industrial Township</p>
+
+              <p class="mb-0 font-weight-bold">City</p>
+              <p class="mb-4">Faridabad</p>
+
+              <p class="mb-0 font-weight-bold">State</p>
+              <p class="mb-4">Haryana</p>
+
+              <p class="mb-0 font-weight-bold">Pin Code</p>
+              <p class="mb-4">121001</p>
+
+              <p class="mb-0 font-weight-bold">Country</p>
+              <p class="mb-4">India</p>
+
+              <p class="mb-0 font-weight-bold">Phone</p>
+              <p class="mb-2"><a href="tel:+91-9811078355">+91-9811078355</a></p>
+              <p class="mb-2"><a href="tel:+91-9350868641">+91-9350868641</a></p>
+              <p class="mb-2"><a href="tel:+91-9999667721">+91-9999667721</a></p>
+              <p class="mb-2"><a href="tel:+91-9313333243">+91-9313333243 </a></p>
+
+              <p class="mb-0 font-weight-bold">LandLine</p>
+              <p class="mb-2"><a href="tel:0129-4085875">0129-4085875 </a></p>
+
+              <p class="mb-0 font-weight-bold">Email Address</p>
+              <p class="mb-0"><a href="mailto: enterprisesharsh.84@gmail.com">enterprisesharsh.84@gmail.com</a></p>
+
+            </div>
+            
+            <!-- <div class="p-4 mb-3 bg-white">
+              <img src="images/tapes.jpg" alt="Image" class="img-fluid mb-4 rounded">
+              <h3 class="h5 text-black mb-3">More Info</h3>
+              <p>Contact us at : <a href="mailto: enterprisesharsh.84@gmail.com">enterprisesharsh.84@gmail.com</a></p>
+              
+            </div> -->
+
+          </div>
+        </div>
+      </div>
     </div>
     
-
     <footer class="site-footer bg-dark">
       <div class="container">
-        
-
+      
         <div class="row">
           <div class="col-md-4 mb-4 mb-md-0">
             <h3 class="footer-heading mb-4 text-white">About</h3>

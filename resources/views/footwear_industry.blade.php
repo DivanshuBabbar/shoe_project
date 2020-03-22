@@ -30,7 +30,7 @@
 
   <div class="site-wrap">
 
-
+    
 
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
@@ -47,7 +47,7 @@
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
-            <div class="col-2 col-xl-2">
+              <div class="col-2 col-xl-2">
               <h1 class="mb-3"><a href="/welcome" class="text-black h2 mb-3"><img src="images/logo.png" width="52" height="42"></a></h1>
             </div>
             <div class="col-10">
@@ -61,7 +61,7 @@
                       <a href="">About</a>
                       <ul class="dropdown arrow-top">
                         <li><a href="/basic_profile">Basic Profile</a></li>
-                        <li class="active" ><a href="/key_man">Key Man</a></li>
+                        <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
                         <li><a href="why-choose-us.html">Why Choose Us</a></li>
                        <!--  <li class="has-children">
@@ -74,10 +74,10 @@
                         <!-- </li> -->
                       </ul>
                     </li>
-                    <li class="has-children">
+                    <li class="has-children active">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="nylon_laces">Nylon Shoe Laces</a></li>
+                        <li><a href="/nylon_laces">Nylon Shoe Laces</a></li>
                         <li><a href="">Polyester</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
@@ -119,43 +119,7 @@
     </div>
 
     <div class="slant-1"></div>
-    <div class="site-section first-section">
-        <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
-      <ul>
-        <li>Vinay Arora :
-          <ul>
-            <li> Designation : Partner </li>
-            <li>  Education : Qualified Enterprenuer</li>
-            <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
-            <li> Mobile : 9313333243</li>
-          </ul> 
-        </li>
-        <li>Davinder Arora:
-          <ul>
-            <li>  Designation : CFO </li>
-            <li>   Education    : Chartered Accountants</li>
-            <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
-            <li>Mobile : 9350868641, 9811078355</li>
-            <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
-          </ul> 
-        </li>
-        <li>Anmol Arora  :
-          <ul>
-            <li> Designation : Executive </li>
-            <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
-            <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
-            <li> Mobile : 9999667721</li>
-          </ul> 
-        </li>
-        <li>Vaibhav Arora:
-          <ul>
-            <li> Designation: Executive</li>
-            <li> Education: Graduate </li>
-            <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
-          </ul> 
-        </li>
-      </ul>
-    </div>
+
     
 
     <footer class="site-footer bg-dark">
