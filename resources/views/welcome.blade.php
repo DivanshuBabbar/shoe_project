@@ -77,8 +77,7 @@
                     <li class="has-children">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="/nylon_laces">Nylon Shoe Laces</a></li>
-                        <li><a href="">Polyester</a></li>
+                        <li><a href="/shoe_laces">Shoe Laces</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
                       </ul>
@@ -169,7 +168,7 @@
   </div>
 
   <div class="site-half block">
-    <div class="img-bg-1 right" style="background-image: url('images/img_5.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1 right" style="background-image: url('images/20200320_163047.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 mr-lg-auto py-5">

@@ -22,7 +22,7 @@ Route::get('/basic_profile', 'UserController@basic_profile')->name('basic_profil
 Route::get('/key_man', 'UserController@key_man')->name('key_man');
 Route::get('/contact', 'UserController@contact')->name('contact');
 Route::get('/footwear_industry', 'UserController@footwear_industry')->name('footwear_industry');
-Route::get('/nylon_laces', 'UserController@nylon_laces')->name('nylon_laces');
+Route::get('/shoe_laces', 'UserController@shoe_laces')->name('shoe_laces');
 
 
 

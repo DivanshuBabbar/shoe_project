@@ -77,8 +77,7 @@
                     <li class="has-children">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="nylon_laces">Nylon Shoe Laces</a></li>
-                        <li><a href="">Polyester</a></li>
+                        <li><a href="shoe_laces">Shoe Laces</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
                       </ul>
@@ -119,7 +118,7 @@
     </div>
 
     <div class="slant-1"></div>
-    <div class="site-section first-section">
+    <div class="site-section first-section ">
         <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
       <ul>
         <li>Vinay Arora :
