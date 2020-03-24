@@ -143,8 +143,6 @@
 
     <footer class="site-footer bg-dark">
       <div class="container">
-        
-
         <div class="row">
           <div class="col-md-4 mb-4 mb-md-0">
             <h3 class="footer-heading mb-4 text-white">About</h3>
@@ -156,20 +154,20 @@
               <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="/welcome">Home</a></li>
                     <li><a href="#">About</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contacts</a></li>
+                    <!-- <li><a href="/blog">Blog</a></li> -->
+                    <li><a href="/contact">Contacts</a></li>
                     <li><a href="#">Privacy</a></li>
                   </ul>
               </div>
-              <div class="col-md-6">
+             <div class="col-md-6">
                 <h3 class="footer-heading mb-4 text-white">Laces</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">hjkhh</a></li>
-                    <li><a href="#">Design</a></li>
-                    <li><a href="#">variety</a></li>
-                    <li><a href="#">Multi Purpose </a></li>
+                    <li><a href="#">Nylon Laces</a></li>
+                    <li><a href="#">Polyester Laces</a></li>
+                    <li><a href="#">Oval Shoe Laces</a></li>
+                    <li><a href="#">Round Shoe Laces</a></li>
                   </ul>
               </div>
             </div>
@@ -184,10 +182,7 @@
             </div>
             </div>
           </div>
-
-          
           <div class="col-md-2">
-            
             <div class="row">
             <div class="col-md-12"><h3 class="footer-heading mb-4 text-white">Social Icons</h3></div>
               <div class="col-md-12">
@@ -196,7 +191,6 @@
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
                   <a href="#" class="p-2"><span class="icon-instagram"></span></a>
                   <a href="#" class="p-2"><span class="icon-vimeo"></span></a>
-
                 </p>
               </div>
           </div>
@@ -205,13 +199,9 @@
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
             <p>
-           
             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | 
             </p>
-
-            
           </div>
-          
         </div>
       </div>
     </footer>
