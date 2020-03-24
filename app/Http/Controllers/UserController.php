@@ -40,9 +40,9 @@ class UserController extends Controller
         return view('/footwear_industry');
     }
 
-    public function nylon_laces()
+    public function shoe_laces()
     {
-        return view('/nylon_laces');
+        return view('/shoe_laces');
     }
 
 

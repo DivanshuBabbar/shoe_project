@@ -77,8 +77,7 @@
                     <li class="has-children active">
                       <a href="/footwear_industry">Footwear Industry</a>
                        <ul class="dropdown arrow-top">
-                        <li><a href="/nylon_laces">Nylon Shoe Laces</a></li>
-                        <li><a href="">Polyester</a></li>
+                        <li><a href="/shoe_laces">Shoe Laces</a></li>
                         <li><a href="">Tapes</a></li>
                         <li><a href="">Cords</a></li>
                       </ul>
