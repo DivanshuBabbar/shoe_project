@@ -110,7 +110,7 @@
 
         <div class="row">
           <div class="column_img">
-            <img src="images/20200321_102735.jpg" alt="Snow" style="width:100%">
+            <img src="images/20200321_102735.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -118,7 +118,7 @@
             </div>
           </div>
           <div class="column_img">
-            <img src="images/20200321_103136.jpg" alt="Forest" style="width:100%">
+            <img src="images/20200321_103136.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -126,7 +126,7 @@
             </div>
           </div>
           <div class="column_img">
-            <img src="images/20200321_103730.jpg" alt="Mountains" style="width:100%">
+            <img src="images/20200321_103730.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
                 <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
                 <p>Flat shoe laces.</p>
@@ -134,7 +134,7 @@
               </div>
           </div>
           <div class="column_img">
-            <img src="images/20200324_125302.jpg" alt="Mountains" style="width:100%">
+            <img src="images/20200324_125302.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
                 <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
                 <p>Flat shoe laces.</p>
@@ -142,15 +142,15 @@
               </div>
           </div>
           <div class="column_img">
-            <img src="images/20200324_125553.jpg" alt="Mountains" style="width:100%;">
+            <img src="images/20200324_125553.jpg" alt="Laces" style="width:100%;">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
-              <p style="padding-top: 9px !important;"><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p>
+              <p><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p>
             </div>
           </div>
         <div class="column_img">
-          <img src="images/20200324_125400.jpg" alt="Mountains" style="width:100%">
+          <img src="images/20200324_125400.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -158,7 +158,7 @@
             </div>
         </div>
         <div class="column_img">
-            <img src="images/20200324_125325.jpg" alt="Mountains" style="width:100%; height: 60%">
+            <img src="images/20200324_125325.jpg" alt="Laces" style="width:100%;">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -166,7 +166,7 @@
             </div>
         </div>
         <div class="column_img">
-            <img src="images/20200324_125238.jpg" alt="Mountains" style="width:100%; height: 60%">
+            <img src="images/20200324_125238.jpg" alt="Laces" style="width:100%;">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -174,7 +174,7 @@
             </div>
         </div>
         <div class="column_img">
-            <img src="images/20200324_125628.jpg" alt="Mountains" style="width:100%; height: 60%">
+            <img src="images/20200324_125628.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -195,7 +195,7 @@
       
       <div class="row">
         <div class="column_img">
-          <img src="images/20200321_105146.jpg" alt="Snow" style="width:100%">
+          <img src="images/20200321_105146.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -203,7 +203,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_105153.jpg" alt="Forest" style="width:100%">
+          <img src="images/20200321_105153.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -211,7 +211,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_105356.jpg" alt="Mountains" style="width:100%">
+          <img src="images/20200321_105356.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -219,7 +219,7 @@
             </div>
         </div>
          <div class="column_img">
-          <img src="images/20200321_105655.jpg" alt="Snow" style="width:100%">
+          <img src="images/20200321_105655.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -227,7 +227,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_110746.jpg" alt="Forest" style="width:100%">
+          <img src="images/20200321_110746.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -235,7 +235,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_110925.jpg" alt="Mountains" style="width:100%">
+          <img src="images/20200321_110925.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
               <p>Flat shoe laces.</p>
@@ -243,7 +243,7 @@
             </div>
         </div>
          <div class="column_img">
-          <img src="images/20200321_111754.jpg" alt="Snow" style="width:100%">
+          <img src="images/20200321_111754.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -251,7 +251,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_115554.jpg" alt="Forest" style="width:100%">
+          <img src="images/20200321_115554.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">ROUND SHOE LACES</h2>
             <p>Flat shoe laces.</p>
@@ -273,7 +273,7 @@
     
       <div class="row">
         <div class="column_img">
-          <img src="images/20200321_111232.jpg" alt="Snow" style="width:100%">
+          <img src="images/20200321_111232.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">OVAl SHOE LACES</h2>
             <p>oval shoe laces.</p>
@@ -281,7 +281,7 @@
           </div>
         </div>
         <div class="column_img">
-          <img src="images/20200321_112223.jpg" alt="Forest" style="width:100%">
+          <img src="images/20200321_112223.jpg" alt="Laces" style="width:100%">
           <div class="media-image-body">
             <h2 class="font-secondary text-uppercase">OVAL SHOE LACES</h2>
             <p>oval shoe laces.</p>
