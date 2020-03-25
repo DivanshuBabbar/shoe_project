@@ -141,14 +141,14 @@
                 <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
               </div>
           </div>
-          <!-- <div class="column_img">
-            <img src="images/20200324_125553.jpg" alt="Mountains" style="width:100%; height: 60%">
+          <div class="column_img">
+            <img src="images/20200324_125553.jpg" alt="Mountains" style="width:100%;">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+              <p style="padding-top: 9px !important;"><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p>
             </div>
-          </div> -->
+          </div>
         <div class="column_img">
           <img src="images/20200324_125400.jpg" alt="Mountains" style="width:100%">
           <div class="media-image-body">
@@ -157,30 +157,30 @@
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
         </div>
-        <!-- <div class="column_img">
+        <div class="column_img">
             <img src="images/20200324_125325.jpg" alt="Mountains" style="width:100%; height: 60%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
-        </div> -->
-      <!--   <div class="column_img">
+        </div>
+        <div class="column_img">
             <img src="images/20200324_125238.jpg" alt="Mountains" style="width:100%; height: 60%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
-        </div> -->
-        <!-- <div class="column_img">
+        </div>
+        <div class="column_img">
             <img src="images/20200324_125628.jpg" alt="Mountains" style="width:100%; height: 60%">
             <div class="media-image-body">
               <h2 class="font-secondary text-uppercase">NYLON SHOE LACES</h2>
               <p>Flat shoe laces.</p>
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
-        </div> -->
+        </div>
        </div>
       </div>
     </div>
