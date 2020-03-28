@@ -4,6 +4,7 @@
     <title>shoelacestech</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
@@ -63,7 +64,7 @@
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                        <li><a href="why-choose-us.html">Salient Features</a></li>
                        <!--  <li class="has-children">
                           <a href="#">Sub Menus</a> -->
                          <!--  <ul class="dropdown">
@@ -93,33 +94,57 @@
         </div>
       </div>
     </div>
-  
-    <div class="slide-one-item home-slider owl-carousel">
-      
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1>
-            </div>
-          </div>
-        </div>
-      </div>  
-
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Content heading</h1>
-            </div>
-          </div>
-        </div>
-      </div> 
-    </div>
-
-    <div class="slant-1"></div>
-
     
+    <div class="case_details_area mt-3">
+      <div class="container">
+          <div class="border_bottom">
+            <div class="row ">
+              <div class="col-xl-12">
+                <div class="details_title">
+                <!-- <span>Finance Solution</span> -->
+                <!-- <h3>Footwear Industry</h3> -->
+                </div>
+                </div>
+                <div class="col-xl-12">
+                <div class="case_thumb">
+                <img src="images/garment.jpg" alt="" style="width: 100%;">
+                </div>
+                </div>
+                <div class="col-xl-12">
+                <div class="details_main_wrap">
+                <p class="details_info">
+               Very much linked with fashion trend which always changes with climate, place, season and many other factors...
+                </p>
+                <div class="single_details">
+                <p>The Present Indian garment industry known for it’s technological advancement , Premium products matching international standards,designs,patterns & Shades catering to the vast requirement of Ever-growing Fashion industry.</p>
+                 </div>
+                <div class="single_details">
+                <p>We at Harsh Enterprises have the vision that Accessories are ‘GEMs of Garment’. We are geared up to meet diverse needs of garment industries accessories such as tapes , cords, pippings , bindings ,belts and shoe laces,The concern has specialization in MADE TO ORDER as per customer specifications at an reasonable and competitive rates.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+   </div>
+<br>
+   <div class="py-5 bg-primary">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-6 text-center mb-3 mb-md-0">
+            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+            <a href="/contact" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </div>    
+
+  
+  
+    <div class="">
+      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+    </div>
 
      <footer class="site-footer bg-dark">
       <div class="container">

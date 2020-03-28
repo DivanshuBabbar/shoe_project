@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
@@ -25,12 +26,8 @@
     
   </head>
   <body>
-  
- 
 
   <div class="site-wrap">
-
-    
 
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
@@ -39,11 +36,10 @@
         </div>
       </div>
       <div class="site-mobile-menu-body"></div>
-    </div> <!-- .site-mobile-menu -->
+    </div>
     
     
-    <div class="site-navbar-wrap js-site-navbar bg-white">
-      
+    <div class="site-navbar-wrap js-site-navbar bg-white"> 
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="row align-items-center">
@@ -63,15 +59,7 @@
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
-                       <!--  <li class="has-children">
-                          <a href="#">Sub Menus</a> -->
-                         <!--  <ul class="dropdown">
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="why-choose-us.html">Why Choose Us</a></li>
-                          </ul> -->
-                        <!-- </li> -->
+                        <li><a href="why-choose-us.html">Salient Features</a></li>
                       </ul>
                     </li>
                     <li class="has-children active">
@@ -83,8 +71,7 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Industry</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                   
+                    <li><a href="/contact">Contact</a></li>  
                   </ul>
                 </div>
               </nav>
@@ -94,33 +81,103 @@
       </div>
     </div>
   
-    <div class="slide-one-item home-slider owl-carousel">
-      
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1>
+    <div class="case_details_area mt-3">
+      <div class="container">
+        <div class="border_bottom">
+          <div class="row ">
+            <div class="col-xl-12">
+              <div class="details_title">
+                <!-- <span>Finance Solution</span> -->
+                <!-- <h3>Footwear Industry</h3> -->
+                </div>
+                </div>
+                <div class="col-xl-12">
+                  <div class="case_thumb">
+                   <img src="images/download.jpeg" alt="" style="width: 100%;" >
+                  </div>
+                </div>
+                <div class="col-xl-12">
+                  <div class="details_main_wrap">
+                   <!--  <p class="details_info">
+                    Consists of companies engaged in the manufacturing of footwear such as dress shoes, sneakers, boots, galoshes and athletic and trade related footwear.
+                    </p> -->
+                    <div class="single_details">
+                      <p>In the present global scenario , Personality is one major concern for every individual , whether young or old for which footwear is definitely personality enhancer , no doubt “ SHOE LACES IS THE JEWEL IN THE CROWN “ . Due to increase in standard of living a new market for premium and high end footwear is increasing exponentially so as there accessories needs.</p>
+                    </div>
+                    <div class="single_details">
+                      <p>At HARSH ENTERPRISES we with our 55 years of Research & Development experience have developed & met the needs of Domestic as well as MNC Footwear Industries . Our Designer Shoe laces, Cords & Tapes have enhanced the fashion Quotient of Footwear Industries.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>  
+     
 
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-        <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Content heading</h1>
+    <div class="site-section ">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="site-section-heading text-uppercase text-center font-secondary">Our Products</h2>
+             <span class="caption d-block mb-2 font-secondary font-weight-bold">Footwear Industry</span>
+          </div>
+        </div>
+     <div class="container">
+       
+        <div class="row">
+          <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="images/20200321_103136.jpg" alt="Lights" style="width:100%">
+                <div class="caption">
+                  <h2 class="font-secondary text-uppercase">Shoe Laces</h2>
+                  <p></p>
+                  <p><a href="/shoe_laces" class="btn btn-primary text-white px-4">Learn More</a></p>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+              <img src="images/20200324_125302.jpg" alt="Nature" style="width:100%">
+               <div class="caption">
+                  <h2 class="font-secondary text-uppercase">Tapes</h2>
+                  <p></p>
+                  <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="images/20200324_125238.jpg" alt="Fjords" style="width:100%">
+                <div class="caption">
+                  <h2 class="font-secondary text-uppercase">Cords</h2>
+                  <p></p>
+                  <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+                </div>
             </div>
           </div>
         </div>
-      </div> 
+    </div>
+      </div>
     </div>
 
-    <div class="slant-1"></div>
 
+ <div class="py-5 bg-primary">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-6 text-center mb-3 mb-md-0">
+            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+            <a href="/contact" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+     <div class="">
+      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+    </div>
     
-
     <footer class="site-footer bg-dark">
       <div class="container">
         <div class="row">

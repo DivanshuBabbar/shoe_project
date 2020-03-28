@@ -4,6 +4,8 @@
     <title>shoelacestech</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
@@ -63,7 +65,7 @@
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                        <li><a href="why-choose-us.html">Salient Features</a></li>
                        <!--  <li class="has-children">
                           <a href="#">Sub Menus</a> -->
                          <!--  <ul class="dropdown">
@@ -148,7 +150,7 @@
     </div>
   </div>
   <div class="site-half">
-    <div class="img-bg-1" style="background-image: url('images/tapes.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1" style="background-image: url('images/new_garment.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 ml-lg-auto py-5">
@@ -186,7 +188,7 @@
   </div>
 
    <div class="site-half">
-    <div class="img-bg-1" style="background-image: url('images/img_4.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1" style="background-image: url('images/other_industry.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 ml-lg-auto py-5">
@@ -216,61 +218,53 @@
   </div>
 
     <div class="site-section block-14 nav-direction-white" >
-
-      <div class="container">
-        
-        <div class="row mb-5" id="show_event">
-          <div class="col-md-12">
-            <h2 class="site-section-heading text-center text-uppercase">Testimonials</h2>
-          </div>
-        </div>
-
-        <div class="nonloop-block-14 owl-carousel">
-          
-
-            <div class="d-block block-testimony mx-auto text-center">
-              <div class="person w-25 mx-auto mb-4">
-                <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-              </div>
-              <div>
-                <h2 class="h5 mb-4">Katie Johnson</h2>
-                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-              </div>
-            </div>
-
-            <div class="d-block block-testimony mx-auto text-center">
-              <div class="person w-25 mx-auto mb-4">
-                <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-              </div>
-              <div>
-                <h2 class="h5 mb-4">Jun Mars</h2>
-                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-              </div>
-            </div>
-
-            <div class="d-block block-testimony mx-auto text-center">
-              <div class="person w-25 mx-auto mb-4">
-                <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-              </div>
-              <div>
-                <h2 class="h5 mb-4">Shane Holmes</h2>
-                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-              </div>
-            </div>
-
-            <div class="d-block block-testimony mx-auto text-center">
-              <div class="person w-25 mx-auto mb-4">
-                <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle w-25 mx-auto">
-              </div>
-              <div>
-                <h2 class="h5 mb-4">Mark Johnson</h2>
-                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
-              </div>
-            </div>
-
-        </div>
-
-      </div>      
+       <div class="col-md-12">
+        <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Competitive Edge </h1><br>
+      </div>
+         <table class="table table-hover">
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Continuous Research and Development</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Large Production Infrastructure Facility</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>Large Product Range</td>
+            </tr>
+             <tr>
+              <th scope="row">4</th>
+              <td>Healthy Financial Position</td>
+            </tr>
+             <tr>
+              <th scope="row">5</th>
+              <td>High Net worth of Partners & Family Members</td>
+            </tr>
+             <tr>
+              <th scope="row">6</th>
+              <td>Competitive Prices</td>
+            </tr>
+             <tr>
+              <th scope="row">7</th>
+              <td>Fast & Committed delivery Partners</td>
+            </tr>
+             <tr>
+              <th scope="row">8</th>
+              <td>No Packing & Forwarding Expenses</td>
+            </tr>
+             <tr>
+              <th scope="row">9</th>
+              <td>Qualified & Experience Owners</td>
+            </tr>
+             <tr>
+              <th scope="row">10</th>
+              <td>Professional Management in every segment such as Production,Quality Control Packaging , dispatch , Accounts</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
 
 
@@ -287,6 +281,10 @@
 
 
     
+   <div class="">
+      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+    </div>
 
     <footer class="site-footer bg-dark">
       <div class="container">

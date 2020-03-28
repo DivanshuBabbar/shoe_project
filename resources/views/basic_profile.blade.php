@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
@@ -63,7 +63,7 @@
                         <li class="active" ><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                        <li><a href="why-choose-us.html">Salient Features</a></li>
                        <!--  <li class="has-children">
                           <a href="#">Sub Menus</a> -->
                          <!--  <ul class="dropdown">
@@ -93,14 +93,14 @@
         </div>
       </div>
     </div>
-  
-    <div class="slide-one-item home-slider owl-carousel">
+   
+ <div class="slide-one-item home-slider owl-carousel">
       
       <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Site is under construction</h1>
+              <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1>
             </div>
           </div>
         </div>
@@ -119,65 +119,130 @@
 
     <div class="slant-1"></div>
 
-     <div class="site-section first-section">
-      <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Basic Profile </h1><br>
-     <ul>
-       <li>Nature Of Business : Manufacturing , Traders ,Suppliers and Exporters.</li>
-       <li>Concern Partners : 
-          <ol>
-            <li> Mr Vinay Arora </li>
-            <li>Mrs Archana Arora</li>
-            <li> Baldev Chander & HUF (Karta: Davinder Arora)</li>
-          </ol> 
-        </li>
-        <li>Concern C.F.O : CA Davinder Arora </li>
-        <li>Concern’s KeyMan: 
-          <ol>
-            <li>Mr. Anmol Arora</li>
-            <li> Mr. Vaibhav Arora</li>
-          </ol> 
-        </li>
-      <li>MSME Status : Small Scale</li>
-      <li>Total No. Of Employees : 20 persons</li>
-      <li>Year Of Establishment :  1964</li>
-      <li>Legal Status: Partnership & Concern Registered With:
-        <ol>
-          <li> Registrar Of Firms</li>
-          <li> G.S.T Act</li>
-          <li>Income Tax Act</li>
-          <li>Directorate Of Industries, Haryana</li>
-          <li>M.C.F (Faridabad, Haryana)</li>
-          <li>Directorate General of Foreign Trade</li>
-        </ol>
-        <li>Annual Turnover: 2 Crores</li>
-      </li>
-      <li>Concern’s Competitive Edge:
-        <ol>
-          <li>Continuous Research and Development</li>
-          <li>Large Production Infrastructure Facility</li>
-          <li> Large Product Range</li>
-          <li>Healthy Financial Position</li>
-          <li>High Net worth of Partners & Family Members</li>
-        </ol>
-      </li>
-      <li>Quality Control : Well Establish 3 Tier Quality Control Checks.</li>
-      <li>Banker : UCO Bank</li>
-      <li>R&D: The Concern has dedicated experts who are skilled designer and have machinery for continuous new development . The Concerns Key man Executive Constantly looks after new development in the shoes and garment industries and arrange to procure all 3 Ms I.E Man , Machinery & Material.</li>
-      <li>Concern’s Latest Development: 
-        <ol>
-          <li>Nylon Shoe laces Flat & Round with reflector</li>
-          <li>Polyester Tapes with Reflector</li>
-          <li>Decorative tapes and cords</li>
-          <li>Multi colour shoe laces and tapes</li>
-          <li>Printed Tapes</li>
-          <li>Shoe laces with Printed name on tips</li>
-          <li>Digital Printed Tapes</li>
-          <li>High Quality Shoe laces of Combined Cotton & Dyed Yarns, Stiching threads & Azo free Nylon       Yarns</li>
-        </ol>
-      </li>
-     </ul>
+     <div class="site-section" data-aos="fade-up">
+ <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Basic Profile </h1><br>
+
+        <div class="container mt-3">
+        <div class="row text-center text-lg-left">
+
+          <div class="col-lg-3 col-md-4 col-6 zoom" >
+             <img src="images/001.jpg" style="height: 200px; width: 400px;"  alt="Image" class="img-fluid img-thumbnail">
+            </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">
+              <img src="images/002.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+             </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">
+             <img src="images/004.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">
+                <img src="images/005.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">
+              <img src="images/006.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">   
+                <img src="images/007.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom"> 
+              <img src="images/008.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 zoom">
+              <img src="images/009.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
+                </a>
+          </div>
+        </div>
+      </div>
+      <br>
+
+        <div class="container"> 
+          <div class="card">
+           <div class="card-body">
+            
+              <ul>
+               <li>Nature Of Business : Manufacturing , Traders ,Suppliers and Exporters.</li>
+               <li>Concern Partners : 
+                  <ol>
+                    <li> Mr Vinay Arora </li>
+                    <li>Mrs Archana Arora</li>
+                    <li> Baldev Chander & HUF (Karta: Davinder Arora)</li>
+                  </ol> 
+                </li>
+                <li>Concern C.F.O : CA Davinder Arora </li>
+                <li>Concern’s KeyMan: 
+                  <ol>
+                    <li>Mr. Anmol Arora</li>
+                    <li> Mr. Vaibhav Arora</li>
+                  </ol> 
+                </li>
+                <li>MSME Status : Small Scale</li>
+                <li>Total No. Of Employees : 20 persons</li>
+                <li>Year Of Establishment :  1964</li>
+                <li>Legal Status: Partnership & Concern Registered With:
+                  <ol>
+                    <li> Registrar Of Firms</li>
+                    <li> G.S.T Act</li>
+                    <li>Income Tax Act</li>
+                    <li>Directorate Of Industries, Haryana</li>
+                    <li>M.C.F (Faridabad, Haryana)</li>
+                    <li>Directorate General of Foreign Trade</li>
+                  </ol>
+                  <li>Annual Turnover: 2 Crores</li>
+                </li>
+                <li>Infrastructure Facilities:
+                  <ol>
+                    <li>Having Sufficient machinery installed capacity to supply to every order.</li>
+                    <li>Having upgraded technology and machine to cater new design & development.</li>
+                  </ol>
+                </li>
+                <li>Quality Control : Well Establish 3 Tier Quality Control Checks.</li>
+                <li>Banker : UCO Bank</li>
+                <li>R&D: The Concern has dedicated experts who are skilled designer and have machinery for continuous new development . The Concerns Key man Executive Constantly looks after new development in the shoes and garment industries and arrange to procure all 3 Ms I.E Man , Machinery & Material.</li>
+                <li>Concern’s Latest Development: 
+                  <ol>
+                    <li>Nylon Shoe laces Flat & Round with reflector</li>
+                    <li>Polyester Tapes with Reflector</li>
+                    <li>Decorative tapes and cords</li>
+                    <li>Multi colour shoe laces and tapes</li>
+                    <li>Printed Tapes</li>
+                    <li>Shoe laces with Printed name on tips</li>
+                    <li>Digital Printed Tapes</li>
+                    <li>High Quality Shoe laces of Combined Cotton & Dyed Yarns, Stiching threads & Azo free Nylon       Yarns</li>
+                  </ol>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>  
+      </div>
+
+
+
+      <div class="py-5 bg-primary">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-6 text-center mb-3 mb-md-0">
+            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+            <a href="/contact" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
+          </div>
+        </div>
+      </div>
     </div>
-    
+
+
+
+
+
+    <div class="">
+      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+    </div>
 
      <footer class="site-footer bg-dark">
       <div class="container">

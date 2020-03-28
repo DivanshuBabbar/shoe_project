@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
@@ -63,7 +64,7 @@
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li class="active" ><a href="/key_man">Key Man</a></li>
                         <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Why Choose Us</a></li>
+                        <li><a href="why-choose-us.html">Salient Features</a></li>
                        <!--  <li class="has-children">
                           <a href="#">Sub Menus</a> -->
                          <!--  <ul class="dropdown">
@@ -119,43 +120,65 @@
 
     <div class="slant-1"></div>
     <div class="site-section first-section ">
-        <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
-      <ul>
-        <li>Vinay Arora :
-          <ul>
-            <li> Designation : Partner </li>
-            <li>  Education : Qualified Enterprenuer</li>
-            <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
-            <li> Mobile : 9313333243</li>
-          </ul> 
-        </li>
-        <li>Davinder Arora:
-          <ul>
-            <li>  Designation : CFO </li>
-            <li>   Education    : Chartered Accountants</li>
-            <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
-            <li>Mobile : 9350868641, 9811078355</li>
-            <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
-          </ul> 
-        </li>
-        <li>Anmol Arora  :
-          <ul>
-            <li> Designation : Executive </li>
-            <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
-            <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
-            <li> Mobile : 9999667721</li>
-          </ul> 
-        </li>
-        <li>Vaibhav Arora:
-          <ul>
-            <li> Designation: Executive</li>
-            <li> Education: Graduate </li>
-            <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
-          </ul> 
-        </li>
-      </ul>
+      <div class="container"> 
+        <div class="card">
+          <div class="card-body">
+            <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
+            <ul>
+              <li>Vinay Arora :
+                <ul>
+                  <li> Designation : Partner </li>
+                  <li>  Education : Qualified Enterprenuer</li>
+                  <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
+                  <li> Mobile : 9313333243</li>
+                </ul> 
+              </li>
+              <li>Davinder Arora:
+                <ul>
+                  <li>  Designation : CFO </li>
+                  <li>   Education    : Chartered Accountants</li>
+                  <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
+                  <li>Mobile : 9350868641, 9811078355</li>
+                  <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
+                </ul> 
+              </li>
+              <li>Anmol Arora  :
+                <ul>
+                  <li> Designation : Executive </li>
+                  <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
+                  <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
+                  <li> Mobile : 9999667721</li>
+                </ul> 
+              </li>
+              <li>Vaibhav Arora:
+                <ul>
+                  <li> Designation: Executive</li>
+                  <li> Education: Graduate </li>
+                  <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
+                </ul> 
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
+
+    <div class="py-5 bg-primary">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-6 text-center mb-3 mb-md-0">
+            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+            <a href="/contact" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     
+     <div class="">
+      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+    </div>
 
    <footer class="site-footer bg-dark">
       <div class="container">
