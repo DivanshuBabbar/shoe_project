@@ -96,75 +96,44 @@
    
  <div class="slide-one-item home-slider owl-carousel">
       
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/002.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1>
+              <!-- <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1> -->
             </div>
           </div>
         </div>
       </div>  
 
-      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/001.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-md-6 text-center" data-aos="fade">
+              <!-- <h1 class="font-secondary  font-weight-bold text-uppercase">Welcome to shoes</h1> -->
+            </div>
+          </div>
+        </div>
+      </div>  
+
+      <div class="site-blocks-cover inner-page overlay" style="background-image: url(images/007.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-md-7 text-center" data-aos="fade">
-              <h1 class="font-secondary font-weight-bold text-uppercase">Content heading</h1>
+              <!-- <h1 class="font-secondary font-weight-bold text-uppercase">Content heading</h1> -->
             </div>
           </div>
         </div>
       </div> 
     </div>
 
-    <div class="slant-1"></div>
+    <!-- <div class="slant-1"></div> -->
 
      <div class="site-section" data-aos="fade-up">
- <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Basic Profile </h1><br>
-
-        <div class="container mt-3">
-        <div class="row text-center text-lg-left">
-
-          <div class="col-lg-3 col-md-4 col-6 zoom" >
-             <img src="images/001.jpg" style="height: 200px; width: 400px;"  alt="Image" class="img-fluid img-thumbnail">
-            </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">
-              <img src="images/002.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-             </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">
-             <img src="images/004.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">
-                <img src="images/005.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">
-              <img src="images/006.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">   
-                <img src="images/007.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom"> 
-              <img src="images/008.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 zoom">
-              <img src="images/009.jpg" style="height: 200px; width: 400px;" alt="Image" class="img-fluid img-thumbnail">
-                </a>
-          </div>
-        </div>
-      </div>
-      <br>
-
         <div class="container"> 
           <div class="card">
            <div class="card-body">
-            
+             <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Basic Profile </h1><br>
               <ul>
                <li>Nature Of Business : Manufacturing , Traders ,Suppliers and Exporters.</li>
                <li>Concern Partners : 
