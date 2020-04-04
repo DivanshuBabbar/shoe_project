@@ -134,7 +134,7 @@
           <div class="card">
            <div class="card-body">
              <h1 style="text-align: center; color: #71bc42 !important;">Concern’s Basic Profile </h1><br>
-              <ul>
+              <ul style="text-align: justify;">
                <li>Nature Of Business : Manufacturing , Traders ,Suppliers and Exporters.</li>
                <li>Concern Partners : 
                   <ol>

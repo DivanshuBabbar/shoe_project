@@ -123,7 +123,7 @@
     <div class="site-section first-section">
       <div class="col-md-12">
         <h1 style="text-align: center; color: #71bc42 !important;">Brief History Of The Concern </h1><br>
-        <p>The Concern are manufacturers , traders and retailors in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , is specialist in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
+        <p style="text-align: justify;">The Concern are manufacturers , traders and retailors in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , is specialist in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
       </div>
     </div>
     
@@ -133,11 +133,11 @@
     <div class="img-bg-1 right" style="background-image: url('images/shoe.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
-        <div class="col-lg-5 mr-lg-auto py-5">
+        <div class="col-lg-5 mr-lg-auto py-5" >
           <span class="caption d-block mb-2 font-secondary font-weight-bold"></span>
           <h2 class="site-section-heading text-uppercase font-secondary mb-5">Footwear Industry Accessories</h2>
-          <p>We at Harsh Enterprises are pioneer , specialist ,reputed Shoe laces/Tapes/Cords  manufacturers with our 55 years of experience and trust earned of various footwear O.E. manufacturers & M.N.Cs . We have pleasure in Catering the following needs of Footwear Industries:.</p>
-          <ul>
+          <p style="text-align: justify;">We at Harsh Enterprises are pioneer , specialist ,reputed Shoe laces/Tapes/Cords  manufacturers with our 55 years of experience and trust earned of various footwear O.E. manufacturers & M.N.Cs . We have pleasure in Catering the following needs of Footwear Industries:.</p>
+          <ul style="text-align: justify;">
             <li>Premium Quality Cotton Yarn Shoe laces/Tapes/cords /Bindings.</li>
             <li>Premium Quality Spun Polyester Cords/tapes/shoe laces /Bindings.</li>
             <li>Premium Quality textured filament polyester yarn shoe laces /Tapes/Cords /Bindings.</li>
@@ -158,8 +158,8 @@
         <div class="col-lg-5 ml-lg-auto py-5">
           <span class="caption d-block mb-2 font-secondary font-weight-bold"> </span>
           <h2 class="site-section-heading text-uppercase font-secondary mb-5">Garment Industry Accessories</h2>
-          <p>We at Harsh Enterprises Have pleasure in serving Garment Industry with our entire knowledge and experience to provide for best products to our Customers . Products Offered by us:</p>
-          <ul>
+          <p style="text-align: justify;">We at Harsh Enterprises Have pleasure in serving Garment Industry with our entire knowledge and experience to provide for best products to our Customers . Products Offered by us:</p>
+          <ul style="text-align: justify;">
             <li>Yarn Dyed Twill Tapes</li>
             <li>Yarn Dyed Cords</li>
             <li>Cellulose Fused Tipped/ Metal Tipped Shoe laces , Tags.</li>
@@ -179,8 +179,8 @@
           <span class="caption d-block mb-2 font-secondary font-weight-bold"></span>
           <h2 class="site-section-heading text-uppercase font-secondary mb-5">Health Care Products Accessories</h2>
           <p>We are premier suppliers in medical industry accessories: 
-           <b>Our Products</b> </p>
-           <ul>
+           <b style="text-align: justify;">Our Products</b> </p>
+           <ul style="text-align: justify;">
              <li>Yarn Braided Round/Flat Cords for health Equipments.</li>
              <li>Tipped Round Flat Cords of Desired Length.</li>
            </ul>
@@ -197,7 +197,7 @@
           <span class="caption d-block mb-2 font-secondary font-weight-bold"> </span>
           <h2 class="site-section-heading text-uppercase font-secondary mb-5">Other Industries</h2>
           <p>We also serve some other Industries Such as:</p>
-          <ul>
+          <ul style="text-align: justify;">
             <li>Automobile Industry</li>
             <ol>
               <li>Wire Braiding on Capillary for dashboard instruments.</li>
@@ -205,7 +205,7 @@
             </ol>
             <li>Electrical Industries</li>
             <ol>
-              <li> Yarn braided cords/tapes for insulation of electrical appliances such as     Fans Electrical motors.</li>
+              <li> Yarn braided cords/tapes for insulation of electrical appliances such as  Fans Electrical motors.</li>
             </ol>
             <li>Home Furnishing Industries.</li>
             <ol>

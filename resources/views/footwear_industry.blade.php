@@ -101,10 +101,10 @@
                    <!--  <p class="details_info">
                     Consists of companies engaged in the manufacturing of footwear such as dress shoes, sneakers, boots, galoshes and athletic and trade related footwear.
                     </p> -->
-                    <div class="single_details">
+                    <div class="single_details" style="text-align: justify;">
                       <p>In the present global scenario , Personality is one major concern for every individual , whether young or old for which footwear is definitely personality enhancer , no doubt “ SHOE LACES IS THE JEWEL IN THE CROWN “ . Due to increase in standard of living a new market for premium and high end footwear is increasing exponentially so as there accessories needs.</p>
                     </div>
-                    <div class="single_details">
+                    <div class="single_details" style="text-align: justify;">
                       <p>At HARSH ENTERPRISES we with our 55 years of Research & Development experience have developed & met the needs of Domestic as well as MNC Footwear Industries . Our Designer Shoe laces, Cords & Tapes have enhanced the fashion Quotient of Footwear Industries.</p>
                     </div>
                   </div>

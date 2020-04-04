@@ -112,13 +112,13 @@
                 </div>
                 <div class="col-xl-12">
                 <div class="details_main_wrap">
-                <p class="details_info">
+                <p class="details_info" style="text-align: justify;">
                Very much linked with fashion trend which always changes with climate, place, season and many other factors...
                 </p>
-                <div class="single_details">
+                <div class="single_details" style="text-align: justify;">
                 <p>The Present Indian garment industry known for it’s technological advancement , Premium products matching international standards,designs,patterns & Shades catering to the vast requirement of Ever-growing Fashion industry.</p>
                  </div>
-                <div class="single_details">
+                <div class="single_details" style="text-align: justify;">
                 <p>We at Harsh Enterprises have the vision that Accessories are ‘GEMs of Garment’. We are geared up to meet diverse needs of garment industries accessories such as tapes , cords, pippings , bindings ,belts and shoe laces,The concern has specialization in MADE TO ORDER as per customer specifications at an reasonable and competitive rates.</p>
                 </div>
               </div>
