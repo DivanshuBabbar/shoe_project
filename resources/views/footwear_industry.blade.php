@@ -95,17 +95,20 @@
                   <div class="case_thumb">
                    <img src="images/download.jpeg" alt="" style="width: 100%;" >
                   </div>
+                  <br>
                 </div>
                 <div class="col-xl-12">
                   <div class="details_main_wrap">
+                   <h1 style="text-align: center; color: #71bc42 !important;">Footwear Industry </h1>
+                   <br>
                    <!--  <p class="details_info">
                     Consists of companies engaged in the manufacturing of footwear such as dress shoes, sneakers, boots, galoshes and athletic and trade related footwear.
                     </p> -->
-                    <div class="single_details">
-                      <p>In the present global scenario , Personality is one major concern for every individual , whether young or old for which footwear is definitely personality enhancer , no doubt “ SHOE LACES IS THE JEWEL IN THE CROWN “ . Due to increase in standard of living a new market for premium and high end footwear is increasing exponentially so as there accessories needs.</p>
+                    <div class="single_details" style="text-align: justify; font-size: 20px;">
+                      <p>In the present global scenario , Personality is one major concern for every individual , whether young or old for which footwear is definitely personality enhancer , no doubt “ SHOE LACES IS THE JEWEL IN THE CROWN “ . Due to increase in standard of living a new market for premium and high end footwear is increasing exponentially so as there accessories needs.<br>
+                      At HARSH ENTERPRISES we with our 55 years of Research & Development experience have developed & met the needs of Domestic as well as MNC Footwear Industries . Our Designer Shoe laces, Cords & Tapes have enhanced the fashion Quotient of Footwear Industries.
+                      </p>
                     </div>
-                    <div class="single_details">
-                      <p>At HARSH ENTERPRISES we with our 55 years of Research & Development experience have developed & met the needs of Domestic as well as MNC Footwear Industries . Our Designer Shoe laces, Cords & Tapes have enhanced the fashion Quotient of Footwear Industries.</p>
                     </div>
                   </div>
                 </div>
@@ -183,8 +186,8 @@
         <div class="row">
           <div class="col-md-4 mb-4 mb-md-0">
             <h3 class="footer-heading mb-4 text-white">About</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos rem ullam, placeat amet.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Read More</a></p>
+            <p></p>
+            <!-- <p><a href="#" class="btn btn-primary text-white px-4">Read More</a></p> -->
           </div>
           <div class="col-md-5 mb-4 mb-md-0 ml-auto">
             <div class="row mb-4">
