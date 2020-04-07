@@ -281,7 +281,7 @@
         <div class="row">
           <div class="col-md-4 mb-4 mb-md-0">
             <h3 class="footer-heading mb-4 text-white">About</h3>
-            <p>We are manufactures,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.</p>
+            <p>We are manufacturers,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.</p>
             <p><a href="/about" class="btn btn-primary text-white px-4">Read More</a></p>
           </div>
           <div class="col-md-5 mb-4 mb-md-0 ml-auto">
