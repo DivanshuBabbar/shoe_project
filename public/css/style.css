@@ -1,12 +1,12 @@
 /* Base */
 
 
-.xyz {
+.theme_context {
   position: relative;
   max-width: 100%;
   margin: 0 auto;
 }
-.xyz .content {
+.theme_context .content {
   position: absolute;
   bottom: 0; 
   background: rgb(0, 0, 0); /* Fallback color */

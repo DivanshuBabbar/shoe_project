@@ -97,7 +97,7 @@
     </div>
   
    <div class="slide-one-item home-slider owl-carousel">
-      <div class="site-blocks-cover inner-page overlay xyz" style="background-image: url(images/theme.jpg);" data-aos="fade" data-stellar-background-ratio="0.5" style="width: 100%;">
+      <div class="site-blocks-cover inner-page overlay theme_context" style="background-image: url(images/theme.jpg);" data-aos="fade" data-stellar-background-ratio="0.5" style="width: 100%;">
          <div class="row align-items-center justify-content-center">
             <div class="col-md-6 text-center" data-aos="fade">
               <h1 class="font-secondary  font-weight-bold text-uppercase">Harsh Enterprise</h1>
