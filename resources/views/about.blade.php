@@ -106,7 +106,7 @@
       </div>
    </div>
 
-      <div class="site-section first-section ">
+      <div class="site-section">
       <div class="container"> 
       <section class="service-area section-gap" id="service">
             <div class="container">
