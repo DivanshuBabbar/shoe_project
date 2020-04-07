@@ -178,7 +178,7 @@
                 </div>
             </div>  
           </section>
-
+          <br>
         <section class="feature-area">
           <div class="container-fluid">
             <div class="row justify-content-center align-items-center">
@@ -205,7 +205,7 @@
           </div>  
         </section>
 
-
+        <br>
       <section class="team-area section-gap" id="team">
         <div class="container">
           <div class="row d-flex justify-content-center">
