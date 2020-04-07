@@ -22,18 +22,14 @@
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
   
     <link rel="stylesheet" href="css/aos.css">
-
-    <link rel="stylesheet" href="css/style.css">
+<link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" >
+    
     
   </head>
   <body>
   
  
-
   <div class="site-wrap">
-
-    
-
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
