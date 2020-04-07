@@ -59,12 +59,12 @@
                  <ul class="site-menu js-clone-nav d-none d-lg-block">
                     <li><a href="/welcome">Home</a></li>
                     <li class="has-children">
-                      <a href="">About</a>
+                      <a href="/about">About</a>
                       <ul class="dropdown arrow-top">
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
-                        <li><a href="why-choose-us.html">Salient Features</a></li>
+                       <!--  <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="why-choose-us.html">Salient Features</a></li> -->
                        <!--  <li class="has-children">
                           <a href="#">Sub Menus</a> -->
                          <!--  <ul class="dropdown">
@@ -76,14 +76,14 @@
                       </ul>
                     </li>
                     <li class="has-children">
-                      <a href="/footwear_industry">Footwear Industry</a>
+                      <a href="/footwear_industry">Footwear Accessories</a>
                        <ul class="dropdown arrow-top">
                         <li><a href="/shoe_laces">Shoe Laces</a></li>
-                        <li><a href="">Tapes</a></li>
+                        <li><a href="/tapes">Tapes</a></li>
                         <li><a href="">Cords</a></li>
                       </ul>
                     </li>
-                    <li class="active" ><a href="/blog">Garment Industry</a></li>
+                    <li class="active" ><a href="/blog">Garment Accessories</a></li>
                     <li><a href="/contact">Contact</a></li>
                    
                   </ul>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-xl-12">
                 <div class="details_main_wrap">
-                <h1 style="text-align: center; color: #71bc42 !important;">Garment Industry </h1>
+                <h1 style="text-align: center; color: #71bc42 !important;">Garment Accessories </h1>
                 <br>
                 <p class="details_info" style="text-align: justify; font-size: 20px;">
                Very much linked with fashion trend which always changes with climate, place, season and many other factors...<br>
@@ -151,8 +151,8 @@
         <div class="row">
           <div class="col-md-4 mb-4 mb-md-0">
             <h3 class="footer-heading mb-4 text-white">About</h3>
-            <p></p>
-            <!-- <p><a href="#" class="btn btn-primary text-white px-4">Read More</a></p> -->
+            <p>We are manufactures,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.</p>
+            <p><a href="/about" class="btn btn-primary text-white px-4">Read More</a></p>
           </div>
           <div class="col-md-5 mb-4 mb-md-0 ml-auto">
             <div class="row mb-4">
@@ -160,7 +160,7 @@
                 <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
                   <ul class="list-unstyled">
                     <li><a href="/welcome">Home</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="/about">About</a></li>
                     <!-- <li><a href="/blog">Blog</a></li> -->
                     <li><a href="/contact">Contacts</a></li>
                     <li><a href="#">Privacy</a></li>
