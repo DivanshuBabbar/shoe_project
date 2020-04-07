@@ -60,16 +60,6 @@
                       <ul class="dropdown arrow-top">
                         <li><a href="/basic_profile">Basic Profile</a></li>
                         <li><a href="/key_man">Key Man</a></li>
-                        <!-- <li><a href="faq.html">FAQ</a></li> -->
-                        <!-- <li><a href="why-choose-us.html">Salient Features</a></li> -->
-                       <!--  <li class="has-children">
-                          <a href="#">Sub Menus</a> -->
-                         <!--  <ul class="dropdown">
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="why-choose-us.html">Why Choose Us</a></li>
-                          </ul> -->
-                        <!-- </li> -->
                       </ul>
                     </li>
                     <li class="has-children">
@@ -183,8 +173,7 @@
               </div>
               <div class="col-lg-3 no-padding feat-txt">
                 <h1>Who we are</h1>
-                <p>
-                  Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.
+                <p>We are manufacturers,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.
                 </p>
               </div>
               <div class="col-lg-3 feat-img no-padding">
@@ -193,8 +182,8 @@
               <div class="col-lg-3 no-padding feat-txt">
                 <h6 class="text-uppercase text-white">Basic & Common Repairs</h6>
                 <h1>What we do</h1>
-                <p >
-                  We are manufacturers,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.
+                <p>
+                  We make shoelaces that are a commonly used to secure shoes, boots, and other footwear.
                 </p>
               </div>
             </div>
