@@ -111,7 +111,7 @@
       <section class="service-area section-gap" id="service">
             <div class="container">
               <div class="row d-flex justify-content-center">
-                <div class="col-md-8 pb-40 header-text justify-content-cente">
+                <div class="col-md-8 pb-40 header-text justify-content-center">
                   <h1>Why choose us</h1>
                   <p>
                     Who are in extremely love with eco friendly system.
