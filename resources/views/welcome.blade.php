@@ -22,8 +22,8 @@
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
   
     <link rel="stylesheet" href="css/aos.css">
-<link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css" >
-    
+
+    <link rel="stylesheet" href="css/style.css">
     
   </head>
   <body>
