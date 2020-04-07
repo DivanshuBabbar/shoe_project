@@ -30,9 +30,6 @@
  
 
   <div class="site-wrap">
-
-
-
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
@@ -106,8 +103,7 @@
       </div>
    </div>
 
-      <div class="site-section">
-      <div class="container"> 
+      
       <section class="service-area section-gap" id="service">
             <div class="container">
               <div class="row d-flex justify-content-center">
@@ -147,7 +143,7 @@
               </div>
             </div>  
           </section>
-           <br>
+    
         <section class="service-area section-gap" id="service">
             <div class="container">
               <div class="site-half block">
@@ -162,7 +158,7 @@
                   </div>
                 </div>
               </div>
-              <br>
+              
                <div class="site-half">
                   <div class="img-bg-1" style="background-image: url('images/history.png');" data-aos="fade"></div>
                   <div class="container">
@@ -178,7 +174,7 @@
                 </div>
             </div>  
           </section>
-          <br>
+          
         <section class="feature-area">
           <div class="container-fluid">
             <div class="row justify-content-center align-items-center">
@@ -205,7 +201,6 @@
           </div>  
         </section>
 
-        <br>
       <section class="team-area section-gap" id="team">
         <div class="container">
           <div class="row d-flex justify-content-center">
