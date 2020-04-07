@@ -23,9 +23,8 @@ Route::get('/key_man', 'UserController@key_man')->name('key_man');
 Route::get('/contact', 'UserController@contact')->name('contact');
 Route::get('/footwear_industry', 'UserController@footwear_industry')->name('footwear_industry');
 Route::get('/shoe_laces', 'UserController@shoe_laces')->name('shoe_laces');
-
-
-
+Route::get('/tapes', 'UserController@tapes')->name('tapes');
+Route::get('/about', 'UserController@about')->name('about');
 Route::post('/admin_email', 'UserController@mail')->name('admin_email');
 
 

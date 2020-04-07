@@ -1,5 +1,79 @@
 /* Base */
 
+
+.xyz {
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.xyz .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+}
+
+.service-area .header-text {
+  text-align: center;
+}
+
+.service-area .header-text h1 {
+  margin-bottom: 20px;
+}
+
+.section-gap {
+  padding: 120px 0;
+}
+
+.single-service {
+  background-color: #f9f9ff;
+  padding: 30px;
+  margin-bottom: 30px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.single-service:hover {
+  box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 0.5);
+  cursor: pointer;
+}
+
+.single-service:hover h4, .single-service:hover p, .single-service:hover .lnr {
+  color: green;
+}
+
+.single-service p {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.single-service h4 {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.single-service h4 .lnr {
+  margin-right: 15px;
+}
+
+.feature-area {
+  background-color: white;
+}
+.feat-img img {
+  width: 100%;
+}
+
 .column_img {
   float: left;
   width: 33.33%;

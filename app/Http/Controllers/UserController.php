@@ -15,7 +15,12 @@ class UserController extends Controller
     	return view('/welcome');
     }
 
-     public function blog()
+    public function about()
+    {
+        return view('/about');
+    } 
+
+    public function blog()
     {
     	return view('/blog');
     }
@@ -44,6 +49,12 @@ class UserController extends Controller
     {
         return view('/shoe_laces');
     }
+
+    public function tapes()
+    {
+        return view('/tapes');
+    }
+
 
 
     public function mail(Request $request)
