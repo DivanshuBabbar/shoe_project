@@ -17,6 +17,10 @@
  var lname = $("input[name=lname]").val();
  var email = $("input[name=email]").val();
  var subject = $("input[name=subject]").val();
+ var article_no = $("input[name=article_no]").val();
+ var usage = $("input[name=usage]").val();
+ var size = $("input[name=size]").val();
+ var quantity = $("input[name=quantity]").val();
  var message = $('#message').val();
  
  $.ajax({
@@ -26,14 +30,14 @@
          },
 	    url: "/admin_email",
 	    contentType: "application/x-www-form-urlencoded",
-	    data: { fname: fname , lname: lname , email: email , subject : subject , message : message },
+	    data: { fname: fname , lname: lname , email: email , subject : subject , message : message , quantity : quantity , size : size , usage : usage , article_no : article_no },
 	    success: function(data, ) {
 	    	$(".mail_form").trigger("reset");
 	      Swal.fire({
 		        type: "success",
 		        title: "Mail Sent Successfully. We will get back to you shortly",
 		        showConfirmButton: false,
-		        timer: 2000
+		        timer: 1500
 	       });
 
 	    }

@@ -64,8 +64,12 @@ class UserController extends Controller
         $email = $request->input('email');
         $subject = $request->input('subject');
         $message = $request->input('message');
-     
-        $data = array('fname'=>$fname,'email'=>$email,'lname'=>$lname,'subject'=>$subject,'message'=>$message);
+        $size = $request->input('size');
+        $usage = $request->input('usage');
+        $quantity = $request->input('quantity');
+        $article_no = $request->input('article_no');
+
+        $data = array('fname'=>$fname,'email'=>$email,'lname'=>$lname,'subject'=>$subject,'message'=>$message,'article_no'=>$article_no,'usage'=>$usage,'size'=>$size,'quantity'=>$quantity);
        
       try {
                 Mail::send(['html'=>'mail'], $data, function($message) use ($data) {

@@ -122,7 +122,7 @@
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
                   <label class="text-black" for="fname">First Name</label>
-                  <input type="text" id="fname" name="fname" class="form-control">
+                  <input type="text" id="fname" name="fname" class="form-control" >
                 </div>
                 <div class="col-md-6">
                   <label class="text-black" for="lname">Last Name</label>
@@ -145,6 +145,28 @@
                   <input type="subject" id="subject" name="subject" class="form-control">
                 </div>
               </div>
+
+              <div class="row form-group">
+                <div class="col-md-6 mb-3 mb-md-0">
+                  <label class="text-black" for="article_no">Article number</label>
+                  <input type="text" id="article_no" name="article_no" class="form-control">
+                </div>
+                <div class="col-md-6">
+                  <label class="text-black" for="usage">Application/Usage</label>
+                  <input type="text" id="usage" name="usage" class="form-control">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-6 mb-3 mb-md-0">
+                  <label class="text-black" for="size">Size</label>
+                  <input type="text" id="size" name="size" class="form-control">
+                </div>
+                <div class="col-md-6">
+                  <label class="text-black" for="quantity">Quantity</label>
+                  <input type="text" id="quantity" name="quantity" class="form-control">
+                </div>
+              </div> 
 
               <div class="row form-group">
                 <div class="col-md-12">
