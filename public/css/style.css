@@ -1,5 +1,7 @@
 /* Base */
-
+.spacer {
+    height: 50px;
+}
 
 .theme_context {
   position: relative;

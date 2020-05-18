@@ -23,7 +23,9 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+    <link href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
   <body>
   
@@ -95,81 +97,165 @@
       </div>
     </div>
   
-  <!--   <div class="container mt-5 mb-4">
-      <h3 style="text-align: center;"><b></b></h3>
-    </div> -->
-   
+  <div class="spacer"></div>
 
-    <div class="site-section ">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 text-center">
-            <h2 class="site-section-heading text-uppercase text-center font-secondary">Tapes</h2>
-             <p><p>
-          </div>
-        </div>
+  <div class="ui container pad-top-30 pad-bottom-30">
+    <div class="center aligned segment">
+      <div class="ui horizontal divider">Tapes</div>
+    </div>  
+  </div>
 
-        <div class="row">
-         
-          <div class="column_img">
-            <img src="images/img_102.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-             <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 3202</h2> -->
+  <div class="spacer"></div>
+
+  <div class="ui container">
+    <div class="ui four column grid">
+      <div class="row">
+        <div class="column">        
+          <div class="ui card">         
+            <div class="image">
+              <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_100.jpg" />
             </div>
-          </div>
-          <div class="column_img">
-            <img src="images/img_100.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-               <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2203</h2> -->
-                <!-- <p>Width 6mm.</p> -->
-                <!-- <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p> -->
+            <div class="content">           
+              <a class="header">Article No.</a>
+              <div class="description">
+              4301
               </div>
+            </div>
+            <!-- <div class="extra content">
+              <a class="ui teal tag label">R500</a>             
+            </div> -->
           </div>
-          <div class="column_img">
-            <img src="images/img_103.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-                <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2204</h2> -->
-                <!-- <p>Width 6mm.</p> -->
-                <!-- <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p> -->
+        </div>
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+               <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_102.jpg" />
+            </div>
+            <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+               4302
               </div>
+            </div> 
+           <!--  <div class="extra content">
+              <a class="ui teal tag label">R460</a> 
+            </div> -->
           </div>
-          <div class="column_img">
-            <img src="images/img_104.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-              <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2205</h2> -->
-             <!-- <p>Width 5mm.</p> -->
-              <!-- <p><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p> -->
+        </div>
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+            <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_103.jpg" />
             </div>
+             <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+                4303
+              </div>
+            </div>
+            <!-- <div class="extra content">
+              <a class="ui teal tag label">R780</a> 
+            </div> -->
           </div>
-        <div class="column_img">
-          <img src="images/img_105.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-              <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2206</h2> -->
-              <!-- <p>Width 6mm.</p> -->
-              <!-- <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p> -->
-            </div>
         </div>
-        <div class="column_img">
-            <img src="images/img_106.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2207</h2> -->
-              <!-- <p>Width 6mm.</p> -->
-              <!-- <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p> -->
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+             <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_104.jpg" />
             </div>
-        </div>
-        <div class="column_img">
-            <img src="images/img_107.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <!-- <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2208</h2> -->
-              <!-- <p>Width 6mm.</p> -->
-              <!-- <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p> -->
+            <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+                4304
+              </div>
             </div>
+           <!--  <div class="extra content">
+              <a class="ui teal tag label">R300</a> 
+            </div> -->
+          </div>
         </div>
-       </div>
-      </div>
+      </div>  
     </div>
+     <div class="ui four column grid">
+      <div class="row">
+        <div class="column">        
+          <div class="ui card">         
+            <div class="image">
+              <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_105.jpg" />
+            </div>
+            <div class="content">           
+              <a class="header">Article No.</a>
+              <div class="description">
+                4305
+              </div>
+            </div>
+          <!--   <div class="extra content">
+              <a class="ui teal tag label">R500</a>             
+            </div> -->
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+              <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_106.jpg" />
+            </div>
+            <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+               4306
+              </div>
+            </div>
+           <!--  <div class="extra content">
+              <a class="ui teal tag label">R460</a> 
+            </div> -->
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+              <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_107.jpg" />
+            </div>
+            <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+                4307
+              </div>
+            </div>
+           <!--  <div class="extra content">
+              <a class="ui teal tag label">R780</a> 
+            </div> -->
+          </div>
+        </div>
+        <div class="column">
+          <div class="ui card">
+            <div class="image">
+              <!-- <a class="ui red right ribbon label"></a> -->
+              <img src="images/img_102.jpg" />
+            </div>
+            <div class="content">
+              <a class="header">Article No.</a>
+              <div class="description">
+                4302
+              </div>
+            </div>
+           <!--  <div class="extra content">
+              <a class="ui teal tag label">R300</a> 
+            </div> -->
+          </div>
+        </div>
+      </div>  
+    </div>
+  </div>
 
-    <div class="py-5 bg-primary">
+
+    <div class="py-5 bg-primary" style="margin-top: 6em;">
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-6 text-center mb-3 mb-md-0">
