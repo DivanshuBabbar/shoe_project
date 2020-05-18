@@ -97,9 +97,9 @@
       </div>
     </div>
   
-  <div class="spacer"></div>
+  <div class="spacer" style="margin-top: 40px !important;"></div>
 
-  <div class="ui container pad-top-30 pad-bottom-30">
+  <div class="ui container pad-top-30 pad-bottom-30" style="margin-top: 20px;">
     <div class="center aligned segment">
       <div class="ui horizontal divider">Tapes</div>
     </div>  
