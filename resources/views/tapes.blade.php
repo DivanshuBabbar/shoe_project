@@ -96,69 +96,68 @@
       </div>
     </div>
 
-    <div class="site-section ">
+    <div class="spacer"></div>
     <div class="container">    
-       <div class="row">
+      <div class="row">
         <div class="col-md-12 text-center">
            <h2 class="site-section-heading text-uppercase text-center font-secondary">Tapes</h2>
         </div>
-      </div>
-      <div class="spacer"></div>
+     </div>
+     <div class="spacer"></div>
 
       <div class="row">
-        <div class="column_img">
+        <div class="column_img " style="height: max-content;">
           <img src="images/img_100.jpg" alt="Laces" style="width:90%; height: 65%;" >
           <div class="media-image-body">
              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4301</h2>
           </div>
         </div>
-        <div class="column_img">
+        <div class="column_img" style="height: max-content;">
           <img src="images/img_102.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4302</h2>
            
           </div>
         </div>
-        <div class="column_img">
+        <div class="column_img"  style="height: max-content;">
           <img src="images/img_103.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4303</h2>
            
             </div>
         </div>
-         <div class="column_img">
+         <div class="column_img"  style="height: max-content;">
           <img src="images/img_104.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4304</h2>
         
           </div>
         </div>
-        <div class="column_img">
+        <div class="column_img"  style="height: max-content;">
           <img src="images/img_105.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4305</h2>
         
           </div>
         </div>
-        <div class="column_img">
+        <div class="column_img"  style="height: max-content;">
           <img src="images/img_106.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4306</h2>
             
             </div>
         </div>
-         <div class="column_img">
+         <div class="column_img"  style="height: max-content;">
           <img src="images/img_107.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4307</h2>
 
           </div>
         </div>
-     </div>
+      </div>
     </div>
-  </div>
   
-    <div class="py-5 bg-primary" style="margin-top: 1px;">
+    <div class="py-5 bg-primary" style="margin-top: 3em;">
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-6 text-center mb-3 mb-md-0">
