@@ -97,7 +97,7 @@
       </div>
     </div>
   
-  <div class="spacer" style="margin-top: 40px !important;"></div>
+  <div class="spacer"></div>
 
   <div class="ui container pad-top-30 pad-bottom-30" style="margin-top: 20px;">
     <div class="center aligned segment">
@@ -116,12 +116,12 @@
               <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_100.jpg" />
             </div>
-            <div class="content">           
+            <!-- <div class="content">           
               <a class="header">Article No.</a>
               <div class="description">
               4301
               </div>
-            </div>
+            </div> -->
             <!-- <div class="extra content">
               <a class="ui teal tag label">R500</a>             
             </div> -->
@@ -133,12 +133,12 @@
                <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_102.jpg" />
             </div>
-            <div class="content">
+           <!--  <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                4302
               </div>
-            </div> 
+            </div>  -->
            <!--  <div class="extra content">
               <a class="ui teal tag label">R460</a> 
             </div> -->
@@ -150,12 +150,12 @@
             <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_103.jpg" />
             </div>
-             <div class="content">
+             <!-- <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                 4303
               </div>
-            </div>
+            </div> -->
             <!-- <div class="extra content">
               <a class="ui teal tag label">R780</a> 
             </div> -->
@@ -167,12 +167,12 @@
              <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_104.jpg" />
             </div>
-            <div class="content">
+           <!--  <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                 4304
               </div>
-            </div>
+            </div> -->
            <!--  <div class="extra content">
               <a class="ui teal tag label">R300</a> 
             </div> -->
@@ -188,12 +188,12 @@
               <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_105.jpg" />
             </div>
-            <div class="content">           
+            <!-- <div class="content">           
               <a class="header">Article No.</a>
               <div class="description">
                 4305
               </div>
-            </div>
+            </div> -->
           <!--   <div class="extra content">
               <a class="ui teal tag label">R500</a>             
             </div> -->
@@ -205,12 +205,12 @@
               <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_106.jpg" />
             </div>
-            <div class="content">
+           <!--  <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                4306
               </div>
-            </div>
+            </div> -->
            <!--  <div class="extra content">
               <a class="ui teal tag label">R460</a> 
             </div> -->
@@ -222,12 +222,12 @@
               <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_107.jpg" />
             </div>
-            <div class="content">
+            <!-- <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                 4307
               </div>
-            </div>
+            </div> -->
            <!--  <div class="extra content">
               <a class="ui teal tag label">R780</a> 
             </div> -->
@@ -239,12 +239,12 @@
               <!-- <a class="ui red right ribbon label"></a> -->
               <img src="images/img_102.jpg" />
             </div>
-            <div class="content">
+           <!--  <div class="content">
               <a class="header">Article No.</a>
               <div class="description">
                 4302
               </div>
-            </div>
+            </div> -->
            <!--  <div class="extra content">
               <a class="ui teal tag label">R300</a> 
             </div> -->
