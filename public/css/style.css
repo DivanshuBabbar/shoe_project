@@ -3,6 +3,10 @@
     height: 50px;
 }
 
+.style_top{
+  margin-top: 2em;
+}
+
 .theme_context {
   position: relative;
   max-width: 100%;

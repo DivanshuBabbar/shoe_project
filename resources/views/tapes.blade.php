@@ -259,7 +259,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-6 text-center mb-3 mb-md-0">
-            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">Try For Your Next Project</h2>
+            <h2 class="text-uppercase text-white mb-4" data-aos="fade-up">For any query</h2>
             <a href="/contact" class="btn btn-bg-primary font-secondary text-uppercase" data-aos="fade-up" data-aos-delay="100">Contact Us</a>
           </div>
         </div>
@@ -292,12 +292,12 @@
                   </ul>
               </div>
              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Laces</h3>
+               <h3 class="footer-heading mb-4 text-white">Accessories</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">Nylon Laces</a></li>
-                    <li><a href="#">Polyester Laces</a></li>
-                    <li><a href="#">Oval Shoe Laces</a></li>
-                    <li><a href="#">Round Shoe Laces</a></li>
+                    <li><a href="/shoe_laces">Shoe Laces</a></li>
+                    <li><a href="/tapes">Tapes</a></li>
+                    <li><a href="#">Cords</a></li>
+                    <!-- <li><a href="#">Round Shoe Laces</a></li> -->
                   </ul>
               </div>
             </div>

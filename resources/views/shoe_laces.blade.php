@@ -100,7 +100,7 @@
     </div> -->
    
 
-    <div class="site-section ">
+    <div class="style_top">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
@@ -152,38 +152,54 @@
               <p><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p>
             </div>
           </div>
-        <div class="column_img">
-          <img src="images/20200324_125400.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
+          <div class="column_img">
+           <img src="images/20200324_125400.jpg" alt="Laces" style="width:100%">
+            <div class="media-image-body">
               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2206</h2>
               <p>Width 6mm.</p>
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
-        </div>
-        <div class="column_img">
-            <img src="images/20200324_125325.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2207</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-        </div>
-        <div class="column_img">
-            <img src="images/20200324_125238.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2208</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-        </div>
-        <div class="column_img">
+          </div>
+          <div class="column_img">
+              <img src="images/20200324_125325.jpg" alt="Laces" style="width:100%;">
+              <div class="media-image-body">
+               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2207</h2>
+                <p>Width 6mm.</p>
+                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+              </div>
+          </div>
+          <div class="column_img">
+              <img src="images/20200324_125238.jpg" alt="Laces" style="width:100%;">
+              <div class="media-image-body">
+               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2208</h2>
+                <p>Width 6mm.</p>
+                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+              </div>
+          </div>
+          <div class="column_img">
             <img src="images/20200324_125628.jpg" alt="Laces" style="width:100%">
             <div class="media-image-body">
              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2209</h2>
               <p>Width 8mm.</p>
               <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
             </div>
-        </div>
+          </div>
+          <div class="column_img">
+            <img src="images/flat1.jpeg" alt="Laces" style="width:100%;">
+            <div class="media-image-body">
+             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2210</h2>
+              <p>Width 6mm.</p>
+              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+            </div>
+          </div>
+          <div class="column_img">
+            <img src="images/flat2.jpeg" alt="Laces" style="width:100%;">
+            <div class="media-image-body">
+             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2211</h2>
+              <p>Width 6mm.</p>
+              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+            </div>
+          </div>
        </div>
       </div>
     </div>
@@ -294,6 +310,22 @@
             <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
           </div>
         </div>
+        <div class="column_img">
+          <img src="images/oval1.jpeg" alt="Laces" style="width:100%">
+          <div class="media-image-body">
+            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2403</h2>
+            <p></p>
+            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+          </div>
+        </div>
+        <div class="column_img">
+          <img src="images/oval2.jpeg" alt="Laces" style="width:100%">
+          <div class="media-image-body">
+            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2404</h2>
+            <p></p>
+            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+          </div>
+        </div>
      </div>
     </div>
   </div>
@@ -324,12 +356,12 @@
                   </ul>
               </div>
              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Laces</h3>
+               <h3 class="footer-heading mb-4 text-white">Accessories</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">Nylon Laces</a></li>
-                    <li><a href="#">Polyester Laces</a></li>
-                    <li><a href="#">Oval Shoe Laces</a></li>
-                    <li><a href="#">Round Shoe Laces</a></li>
+                    <li><a href="/shoe_laces">Shoe Laces</a></li>
+                    <li><a href="/tapes">Tapes</a></li>
+                    <li><a href="#">Cords</a></li>
+                    <!-- <li><a href="#">Round Shoe Laces</a></li> -->
                   </ul>
               </div>
             </div>

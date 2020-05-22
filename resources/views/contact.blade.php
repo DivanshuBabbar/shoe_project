@@ -256,12 +256,12 @@
                   </ul>
               </div>
              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Laces</h3>
+               <h3 class="footer-heading mb-4 text-white">Accessories</h3>
                   <ul class="list-unstyled">
-                    <li><a href="#">Nylon Laces</a></li>
-                    <li><a href="#">Polyester Laces</a></li>
-                    <li><a href="#">Oval Shoe Laces</a></li>
-                    <li><a href="#">Round Shoe Laces</a></li>
+                    <li><a href="/shoe_laces">Shoe Laces</a></li>
+                    <li><a href="/tapes">Tapes</a></li>
+                    <li><a href="#">Cords</a></li>
+                    <!-- <li><a href="#">Round Shoe Laces</a></li> -->
                   </ul>
               </div>
             </div>
