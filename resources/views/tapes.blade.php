@@ -107,51 +107,51 @@
 
       <div class="row">
         <div class="column_img">
-          <img src="images/img_100.jpg" alt="Laces" style="width:90%; height: 70%;" >
+          <img src="images/img_100.jpg" alt="Laces" style="width:90%; height: 65%;" >
           <div class="media-image-body">
              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4301</h2>
           </div>
         </div>
         <div class="column_img">
-          <img src="images/img_102.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_102.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4302</h2>
            
           </div>
         </div>
         <div class="column_img">
-          <img src="images/img_103.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_103.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4303</h2>
            
             </div>
         </div>
          <div class="column_img">
-          <img src="images/img_104.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_104.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4304</h2>
         
           </div>
         </div>
         <div class="column_img">
-          <img src="images/img_105.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_105.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4305</h2>
-           
+        
           </div>
         </div>
         <div class="column_img">
-          <img src="images/img_106.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_106.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4306</h2>
             
             </div>
         </div>
          <div class="column_img">
-          <img src="images/img_107.jpg" alt="Laces" style="width:90%; height: 70%;">
+          <img src="images/img_107.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4307</h2>
-          
+
           </div>
         </div>
      </div>
