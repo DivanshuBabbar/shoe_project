@@ -141,7 +141,7 @@
 					   <div class="summary">
 						    <a>Archana Arora </a> 
 						    <div class="date">
-						    	CFO
+						    	Partner
 						    </div>
 					    </div>
 					   <div class="extra text">
