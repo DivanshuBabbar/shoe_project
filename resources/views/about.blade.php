@@ -203,7 +203,7 @@
           <div class="row justify-content-center d-flex align-items-center">
             <div class="col-md-3 single-team">
                 <div>
-                    <img class="img-fluid" src="images/person_1.jpg" alt="">
+                    <img class="img-fluid" src="images/person_1.jpeg" alt="">
                     <div class="align-items-center justify-content-center d-flex">
                   <a href="#" class="p-2"><span class="icon-facebook"></span></a>
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
@@ -211,13 +211,13 @@
                     </div>
                 </div>
                 <div class="meta-text mt-30 text-center">
-                  <h4>Ethel Davis</h4>
-                  <p>Managing Director (Sales)</p>                        
+                  <h4>Anmol Arora</h4>
+                  <p>Executive</p>                        
                 </div>
             </div>
             <div class="col-md-3 single-team">
                 <div class="">
-                    <img class="img-fluid" src="images/person_2.jpg" alt="">
+                    <img class="img-fluid" src="images/person_2.jpeg" alt="">
                     <div class="align-items-center justify-content-center d-flex">
                   <a href="#" class="p-2"><span class="icon-facebook"></span></a>
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
@@ -225,13 +225,13 @@
                     </div>
                 </div>
                 <div class="meta-text mt-30 text-center">
-                  <h4>Rodney Cooper</h4>
-                  <p>Creative Art Director (Project)</p>            
+                  <h4>Archana Arora</h4>
+                  <p>Partner</p>            
                 </div>
             </div>  
             <div class="col-md-3 single-team">
                 <div class="">
-                    <img class="img-fluid" src="images/person_3.jpg" alt="">
+                    <img class="img-fluid" src="images/person_4.jpeg" alt="">
                     <div class="align-items-center justify-content-center d-flex">
                  <a href="#" class="p-2"><span class="icon-facebook"></span></a>
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
@@ -239,13 +239,13 @@
                     </div>
                 </div>
                 <div class="meta-text mt-30 text-center">
-                  <h4>Dora Walker</h4>
-                  <p>Senior Core Developer</p>            
+                  <h4>Vinay Arora</h4>
+                  <p>Partner</p>            
                 </div>
             </div>  
             <div class="col-md-3 single-team">
                 <div class="">
-                    <img class="img-fluid" src="images/person_4.jpg" alt="">
+                    <img class="img-fluid" src="images/person_3.jpeg" alt="">
                     <div class="align-items-center justify-content-center d-flex">
                  <a href="#" class="p-2"><span class="icon-facebook"></span></a>
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
@@ -253,8 +253,8 @@
                     </div>
                 </div>
                 <div class="meta-text mt-30 text-center">
-                  <h4>Lena Keller</h4>
-                  <p>Creative Content Developer</p>           
+                  <h4>Vaibhav Arora</h4>
+                  <p>Executive</p>           
                 </div>
             </div>                                                  
         

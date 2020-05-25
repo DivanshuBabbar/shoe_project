@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
   </head>
   <body>
   
@@ -111,40 +111,92 @@
         <div class="card">
           <div class="card-body">
             <h1 style="text-align: center; color: #71bc42 !important;">Our Team : Key Man Personnel </h1><br>
-            <ul>
-              <li>Vinay Arora :
-                <ul>
-                  <li> Designation : Partner </li>
-                  <li>  Education : Qualified Enterprenuer</li>
-                  <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
-                  <li> Mobile : 9313333243</li>
-                </ul> 
-              </li>
-              <li>Davinder Arora:
-                <ul>
-                  <li>  Designation : CFO </li>
-                  <li>   Education    : Chartered Accountants</li>
-                  <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
-                  <li>Mobile : 9350868641, 9811078355</li>
-                  <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
-                </ul> 
-              </li>
-              <li>Anmol Arora  :
-                <ul>
-                  <li> Designation : Executive </li>
-                  <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
-                  <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
-                  <li> Mobile : 9999667721</li>
-                </ul> 
-              </li>
-              <li>Vaibhav Arora:
-                <ul>
-                  <li> Designation: Executive</li>
-                  <li> Education: Graduate </li>
-                  <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
-                </ul> 
-              </li>
-            </ul>
+            <div class="ui feed">
+ 			    <div class="event">
+					<div class="label">
+					  <img src="/images/person_4.jpeg">
+					</div>
+					<div class="content">
+					   <div class="summary">
+						    <a>Vinay Arora </a> 
+						    <div class="date">
+						    	Partner
+						    </div>
+					    </div>
+					   <div class="extra text">
+					       <ul>
+			                  <li> Designation : Partner </li>
+			                  <li>  Education : Qualified Enterprenuer</li>
+			                  <li> Experience: Looking after Production and R&D Dept. for More than   35 Years.</li>
+			                  <li> Mobile : 9313333243</li>
+		                    </ul> 
+					  </div>
+				   </div>
+				</div>
+				<div class="event">
+					<div class="label">
+					  <img src="/images/person_2.jpeg">
+					</div>
+					<div class="content">
+					   <div class="summary">
+						    <a>Archana Arora </a> 
+						    <div class="date">
+						    	CFO
+						    </div>
+					    </div>
+					   <div class="extra text">
+					        <ul>
+			                  <li>  Designation : Partner </li>
+			                  <li>   Education    : Chartered Accountants</li>
+			                  <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
+			               <!--    <li>Mobile : 9350868641, 9811078355</li> -->
+			                  <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
+			                </ul> 
+					  </div>
+				   </div>
+				</div>
+				<div class="event">
+					<div class="label">
+					  <img src="/images/person_1.jpeg">
+					</div>
+					<div class="content">
+					   <div class="summary">
+						    <a>Anmol Arora </a> 
+						    <div class="date">
+						    	Executive
+						    </div>
+					    </div>
+					   <div class="extra text">
+					        <ul>
+			                  <li> Designation : Executive </li>
+			                  <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
+			                  <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
+			                  <li> Mobile : 9999667721</li>
+				            </ul> 
+					  </div>
+				   </div>
+				</div>
+				<div class="event">
+					<div class="label">
+					  <img src="/images/person_3.jpeg">
+					</div>
+					<div class="content">
+					   <div class="summary">
+						    <a>Vaibhav Arora </a> 
+						    <div class="date">
+						    	Executive
+						    </div>
+					    </div>
+					   <div class="extra text">
+					       <ul>
+			                  <li> Designation: Executive</li>
+			                  <li> Education: Graduate </li>
+			                  <li>Experience : Looking after Sales , Purchase , R&D department   .  Also Looking after Modernisation cum expansion projects of business.</li>
+			                </ul> 
+					  </div>
+				   </div>
+				</div>
+			</div>
           </div>
         </div>
       </div>
