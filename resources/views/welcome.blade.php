@@ -101,7 +101,7 @@
             </div>
           </div>
         <div class="content">
-         <p>The group established in the year 1964,over 55 years of research and development,long time vision,skilled management and performance here resulted in huge statistic customers. </p>
+         <p>The group established in the year 1964,over 55 years of research and development,long time vision,skilled management and performance have resulted in huge satisfied customers. </p>
         </div>
       </div>
    </div>
@@ -111,7 +111,7 @@
     <div class="site-section">
       <div class="col-md-12">
         <h1 style="text-align: center; color: #71bc42 !important;">Brief History Of The Concern </h1><br>
-        <p style="text-align: justify;">The Concern is manufacturer , traders and expoters in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , has specialisation in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Customer Satisfaction is our business MOTO , Competitive Product pricing , Professional Management.</p>
+        <p style="text-align: justify;">The Concern is manufacturer , traders and expoters in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , has specialisation in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Competitive Product pricing , Professional management. Customer satisfaction is our business moto .</p>
       </div>
     </div>
     

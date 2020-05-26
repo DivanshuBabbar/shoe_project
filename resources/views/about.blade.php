@@ -110,7 +110,7 @@
                   <div class="single-service">
                     <h4><span class="lnr lnr-user"></span>Modern Infrastructure</h4>
                     <p>
-                      Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+                      Installed capacity of latest & up to date machinery enable us to provide efficient and best product.
                     </p>
                   </div>
                 </div>
@@ -118,7 +118,7 @@
                   <div class="single-service">
                     <h4><span class="lnr lnr-license"></span>Trained Workforce</h4>
                     <p>
-                      Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+                      Highly skilled and experienced workforce enable us to deliever best product without fail.
                     </p>                
                   </div>
                 </div>
@@ -126,7 +126,7 @@
                   <div class="single-service">
                     <h4><span class="lnr lnr-phone"></span>Continuous R&D</h4>
                     <p>
-                      Usage of the Internet is becoming more common due to rapid advancement of technology and power.
+                      Dedicated R&D team involved in continuous R&D enable us to offer our customers continuous new  products.
                     </p>                
                   </div>
                 </div>         
