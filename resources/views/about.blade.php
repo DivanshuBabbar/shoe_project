@@ -71,6 +71,13 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>
                    
                   </ul>
@@ -169,7 +176,7 @@
           <div class="container-fluid">
             <div class="row justify-content-center align-items-center">
               <div class="col-lg-3 feat-img no-padding">
-                <img class="img-fluid" src="images/007.jpg" alt="">
+                <img class="img-fluid" src="images/whoweare.png" alt="">
               </div>
               <div class="col-lg-3 no-padding feat-txt">
                 <h1>Who we are</h1>
@@ -177,7 +184,7 @@
                 </p>
               </div>
               <div class="col-lg-3 feat-img no-padding">
-                <img class="img-fluid" src="images/002.jpg" alt="">             
+                <img class="img-fluid" src="images/whatwedo.jpeg" alt="">             
               </div>
               <div class="col-lg-3 no-padding feat-txt">
                 <h6 class="text-uppercase text-white">Basic & Common Repairs</h6>
@@ -205,9 +212,9 @@
                 <div>
                     <img class="img-fluid" src="images/person_1.jpeg" alt="">
                     <div class="align-items-center justify-content-center d-flex">
-                  <a href="#" class="p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.facebook.com/anmol.arora.338863/" target="_blank"  class="p-2"><span class="icon-facebook"></span></a>
                   <a href="#" class="p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="p-2"><span class="icon-instagram"></span></a>
+                  <a href="https://www.instagram.com/anmol_22/" target="_blank" class="p-2"><span class="icon-instagram"></span></a>
                     </div>
                 </div>
                 <div class="meta-text mt-30 text-center">

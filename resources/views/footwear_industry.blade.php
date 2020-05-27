@@ -71,6 +71,13 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>  
                   </ul>
                 </div>
@@ -141,7 +148,7 @@
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="images/20200324_125302.jpg" alt="Nature" style="width:100%">
+              <img src="images/tape_11.jpg" alt="Nature" style="width:100%; height: 12em;">
                <div class="caption">
                   <h2 class="font-secondary text-uppercase">Tapes</h2>
                   <p></p>
@@ -151,7 +158,7 @@
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-                <img src="images/20200324_125238.jpg" alt="Fjords" style="width:100%">
+                <img src="images/soon.jpg" alt="Fjords" style="width:100%">
                 <div class="caption">
                   <h2 class="font-secondary text-uppercase">Cords</h2>
                   <p></p>

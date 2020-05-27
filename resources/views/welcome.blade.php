@@ -81,7 +81,15 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                    <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>
+                  
                    
                   </ul>
                 </div>
@@ -171,6 +179,7 @@
            <ul style="text-align: justify;">
              <li>Yarn Braided Round/Flat Cords for health Equipments.</li>
              <li>Tipped Round Flat Cords of Desired Length.</li>
+             <li>Elastic tapes and cords for face mask.</li>
            </ul>
         </div>
       </div>

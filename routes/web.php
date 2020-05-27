@@ -26,6 +26,7 @@ Route::get('/shoe_laces', 'UserController@shoe_laces')->name('shoe_laces');
 Route::get('/tapes', 'UserController@tapes')->name('tapes');
 Route::get('/about', 'UserController@about')->name('about');
 Route::post('/admin_email', 'UserController@mail')->name('admin_email');
-
+Route::get('/medical_equipment', 'UserController@medical_equipment')->name('medical_equipment');
+Route::get('/elastic_item', 'UserController@elastic_item')->name('elastic_item');
 
 

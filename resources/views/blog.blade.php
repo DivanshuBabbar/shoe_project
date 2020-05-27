@@ -84,6 +84,13 @@
                       </ul>
                     </li>
                     <li class="active" ><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>
                    
                   </ul>

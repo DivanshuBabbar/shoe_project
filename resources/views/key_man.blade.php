@@ -84,6 +84,13 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>
                    
                   </ul>
@@ -172,6 +179,8 @@
 			                  <li> Education : Bcom (H)(Delhi University) , MBA(IMT Gaziabad) ,LLB (Pursuing)</li>
 			                  <li>  Experience: Looking after Sales , Purchase , R&D department  since 3 years .  Also Looking after Modernisation cum expansion projects of business.</li>
 			                  <li> Mobile : 9999667721</li>
+                        <li>Email ID: <a href="mailto:aa_22_anmol@yahoo.in?Subject=Hello%20again" target="_top">aa_22_
+                        anmol@yahoo.in</a></li>
 				            </ul> 
 					  </div>
 				   </div>

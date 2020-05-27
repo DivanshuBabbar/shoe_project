@@ -55,6 +55,16 @@ class UserController extends Controller
         return view('/tapes');
     }
 
+    public function medical_equipment()
+    {
+        return view('/medical_equipment');
+    }
+
+    public function elastic_item()
+    {
+        return view('/elastic_item');
+    }
+
 
 
     public function mail(Request $request)

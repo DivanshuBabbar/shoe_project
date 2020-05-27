@@ -24,7 +24,7 @@
 
     <link rel="stylesheet" href="css/style.css">
    
-<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.29.2/sweetalert2.all.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.29.2/sweetalert2.all.js"></script>
     
   </head>
   <body>
@@ -86,6 +86,13 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li class="active" ><a href="/contact">Contact</a></li>
                    
                   </ul>

@@ -84,6 +84,13 @@
                       </ul>
                     </li>
                     <li><a href="/blog">Garment Accessories</a></li>
+                     <li class="has-children">
+                      <a href="/">Others</a>
+                       <ul class="dropdown arrow-top">
+                        <li><a href="medical_equipment">Medical Equipment Accessories </a></li>
+                        <li><a href="elastic_item">Elastic item</a></li>
+                      </ul>
+                    </li>
                     <li><a href="/contact">Contact</a></li>
                    
                   </ul>
@@ -104,8 +111,10 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
+
+             <p style="font-size: 18px; text-align: justify;"><b>NOTE:- </b> Shoe laces can be made of Nylon,Polyster,Polyproplene,Multifilament,Monofilament,Cotton,SpunPolyester yarn,Stiching thread,Fire resistance yarn,Petlon yarn,Multicolor polyester yarn and various blended synthetic yarn.<p>
             <h2 class="site-section-heading text-uppercase text-center font-secondary">Flat shoe laces</h2>
-             <p style="font-size: 18px; text-align: justify;">NOTE:- Shoe laces can be made of Nylon,Polyster,Polyproplene,Multifilament,Monofilament,Cotton,SpunPolyester yarn,Stiching thread,Fire resistance yarn,Petlon yarn,Multicolor polyester yarn and various blended synthetic yarn.<p>
+             
             <p style="font-size: 20px;">Range of width:- 4mm-20mm</p>
             <p style="font-size: 20px;">Range of lenght:- 50cm-200cm</p>
           </div>
