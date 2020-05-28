@@ -109,7 +109,8 @@
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="single.html">Kaj Elastic </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
-      <p>It is 6 mm kaj elastic used in medical equipment. Note: Width and Quality can be varried as per customer requirements.</p>
+      <p>It is 6 mm kaj elastic used in medical equipment.</p>
+      <p> Note: Width and Quality can be varried as per customer requirements.</p>
       <!-- <p><a href="#">Read More</a></p> -->
       </div>
       </div>
@@ -120,8 +121,8 @@
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="single.html">Elastic tape </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
-      <p>It is 8 mm elastic tape used in garments industries,Footwear industries , Medical industries and other industries.
-        Note: Quality and width can be altered as per customer specifications.</p>
+      <p>It is 8 mm elastic tape used in garments industries,Footwear industries , Medical industries and other industries.</p>
+        <p>Note: Quality and width can be altered as per customer specifications.</p>
       <!-- <p><a href="#">Read More</a></p> -->
       </div>
       </div>
