@@ -107,7 +107,7 @@
       <div class="media-image">
       <a href="single.html"><img src="images/me_1.jpg" alt="Image" class="img-fluid"></a>
       <div class="media-image-body">
-      <h2 class="font-secondary text-uppercase"><a href="single.html">Cord with tipped ends (has elasticity)</a></h2>
+      <h2 class="font-secondary text-uppercase"><a href="/">Cord with tipped ends (has elasticity)</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
       <p>It is 1 mm round cord used especialy in mask , urine bags, blood bags etc.</p>
       <p>Note: quality , diameter and length can be varried as per customer requirements.</p>
@@ -119,7 +119,7 @@
       <div class="media-image">
       <a href="single.html"><img src="images/me_2.jpg" alt="Image" class="img-fluid"></a>
       <div class="media-image-body">
-      <h2 class="font-secondary text-uppercase"><a href="single.html">Cord</a></h2>
+      <h2 class="font-secondary text-uppercase"><a href="/">Cord</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
       <p>It is 1 mm cord used in blood bags , urine bags , mask cord etc.</p> 
       <p>Note: Quality and diameter can be varied as per customer requirements.</p>
@@ -131,7 +131,7 @@
       <div class="media-image">
       <a href="single.html"><img src="images/me_4.jpg" alt="Image" class="img-fluid"></a>
       <div class="media-image-body">
-      <h2 class="font-secondary text-uppercase"><a href="single.html">Reinforcement Tape </a></h2>
+      <h2 class="font-secondary text-uppercase"><a href="/">Reinforcement Tape </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
       <p>It is 5 mm reinforcement tape used in masks, sandals,shoes& various garments.</p>
       <p>Note : Quality and width can be varied as per customer requirements.</p>
@@ -143,7 +143,7 @@
       <div class="media-image">
       <a href="single.html"><img src="images/me_5.jpg" alt="Image" class="img-fluid"></a>
       <div class="media-image-body">
-      <h2 class="font-secondary text-uppercase"><a href="single.html">Mask Cord</a></h2>
+      <h2 class="font-secondary text-uppercase"><a href="/">Mask Cord</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
       <p>The cord is compatible with all kinds of mask such as 1 ply, 2 ply, 3 ply , N95 and other medical masks.</p>
       <p>Note: quality , diameter and size  can be varried as per customer requirements.</p>
