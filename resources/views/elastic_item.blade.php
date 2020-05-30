@@ -105,7 +105,7 @@
       <div class="row">
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
       <div class="media-image">
-      <a href="single.html"><img src="images/elastic_4.jpg" alt="Image" class="img-fluid"></a>
+      <img src="images/elastic_4.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Kaj Elastic </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
@@ -117,7 +117,7 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <a href="single.html"><img src="images/elastic_3.jpeg" alt="Image" class="img-fluid"></a>
+      <img src="images/elastic_3.jpeg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Elastic tape </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->

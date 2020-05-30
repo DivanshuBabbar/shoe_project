@@ -120,178 +120,201 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="column_img">
-            <img src="images/20200321_102735.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2201</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-            <img src="images/20200321_103136.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2202</h2>
-             <p>Width 7mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-            <img src="images/20200321_103730.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2203</h2>
-                <p>Width 6mm.</p>
-                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-              </div>
-          </div>
-          <div class="column_img">
-            <img src="images/20200324_125302.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-                <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2204</h2>
-                <p>Width 6mm.</p>
-                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-              </div>
-          </div>
-          <div class="column_img">
-            <img src="images/20200324_125553.jpg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2205</h2>
-             <p>Width 5mm.</p>
-              <p><a href="#" class="btn btn-primary text-white  px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-           <img src="images/20200324_125400.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2206</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-              <img src="images/20200324_125325.jpg" alt="Laces" style="width:100%;">
-              <div class="media-image-body">
-               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2207</h2>
-                <p>Width 6mm.</p>
-                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-              </div>
-          </div>
-          <div class="column_img">
-              <img src="images/20200324_125238.jpg" alt="Laces" style="width:100%;">
-              <div class="media-image-body">
-               <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2208</h2>
-                <p>Width 6mm.</p>
-                <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-              </div>
-          </div>
-          <div class="column_img">
-            <img src="images/20200324_125628.jpg" alt="Laces" style="width:100%">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2209</h2>
-              <p>Width 8mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-            <img src="images/flat1.jpeg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2210</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-          <div class="column_img">
-            <img src="images/flat2.jpeg" alt="Laces" style="width:100%;">
-            <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2211</h2>
-              <p>Width 6mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-          </div>
-       </div>
+       
+      
+      <div class="row">
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+      <div class="media-image">
+      <img src="images/20200321_102735.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2201</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_103136.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2202</a></h2>
+      <p>Width 7mm.</p>
+     
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+      <div class="media-image">
+      <img src="images/20200321_103730.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2203 </a></h2>
+       <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125302.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2204</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125553.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2205</a></h2>
+      <p>Width 5mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125400.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2206</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125325.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2207</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125238.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2208</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200324_125628.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2209</a></h2>
+      <p>Width 8mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/flat1.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2210</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/flat2.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2211</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      </div>
       </div>
     </div>
 
   <div class="site-section ">
     <div class="container">    
-       <div class="row">
+      <div class="row">
         <div class="col-md-12 text-center">
            <h2 class="site-section-heading text-uppercase text-center font-secondary">Round shoe laces</h2>
             <p style="font-size: 20px;">Range of diameter:- 2mm-10mm Thickness</p>
             <p style="font-size: 20px;">Range of lenght:- 50cm-200cm</p>
         </div>
       </div>
-      
       <div class="row">
-        <div class="column_img">
-          <img src="images/20200321_105146.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2301</h2>
-             <p>Diameter 3mm.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_105153.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2302</h2>
-           <p>Diameter 3mm.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_105356.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2303</h2>
-             <p>Diameter 3mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-        </div>
-         <div class="column_img">
-          <img src="images/20200321_105655.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2304</h2>
-            <p>Diameter 2mm.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_110746.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2305</h2>
-            <p>Diameter 3mm.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_110925.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-              <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2306</h2>
-              <p>Diameter 3mm.</p>
-              <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-            </div>
-        </div>
-         <div class="column_img">
-          <img src="images/20200321_111754.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-          <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2307</h2>
-            <p>Diameter 2mm.</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_115554.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2308</h2>
-           <p>Waxed Cotton Laces</p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        
-     </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+      <div class="media-image">
+      <img src="images/20200321_105146.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2301</a></h2>
+       <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_105153.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2302</a></h2>
+       <p>Diameter 3mm.</p>
+     
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+      <div class="media-image">
+      <img src="images/20200321_105356.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2303 </a></h2>
+         <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_105655.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2304</a></h2>
+       <p>Diameter 2mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_110746.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2305</a></h2>
+        <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_110925.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2306</a></h2>
+        <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_111754.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2307</a></h2>
+      <p>Diameter 2mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_115554.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2308</a></h2>
+      <p>Waxed Cotton Laces</p>
+      </div>
+      </div>
+      </div>
+    </div>
     </div>
   </div>
+   
+ 
   
    <div class="site-section ">
     <div class="container">   
@@ -301,41 +324,44 @@
             <p style="font-size: 20px; ">Lenght:- 50cm-200cm</p>
         </div>
       </div>
-    
-      <div class="row">
-        <div class="column_img">
-          <img src="images/20200321_111232.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2401</h2>
-            <p></p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/20200321_112223.jpg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-             <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2402</h2>
-            <p></p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/oval1.jpeg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2403</h2>
-            <p></p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-        <div class="column_img">
-          <img src="images/oval2.jpeg" alt="Laces" style="width:100%">
-          <div class="media-image-body">
-            <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 2404</h2>
-            <p></p>
-            <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
-          </div>
-        </div>
-     </div>
+     <div class="row">
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_111232.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2401</a></h2>
+        <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/20200321_112223.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2402</a></h2>
+        <p>Diameter 3mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/oval1.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2403</a></h2>
+      <p>Diameter 2mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/oval2.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2404</a></h2>
+      <p>Waxed Cotton Laces</p>
+      </div>
+      </div>
+      </div>
+    </div>   
     </div>
   </div>
 

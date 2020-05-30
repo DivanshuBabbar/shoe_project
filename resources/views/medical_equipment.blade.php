@@ -105,7 +105,7 @@
       <div class="row">
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
       <div class="media-image">
-      <a href="single.html"><img src="images/me_1.jpg" alt="Image" class="img-fluid"></a>
+      <img src="images/me_1.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Cord with tipped ends (has elasticity)</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
@@ -117,7 +117,7 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <a href="single.html"><img src="images/me_2.jpg" alt="Image" class="img-fluid"></a>
+      <img src="images/me_2.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Cord</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
@@ -129,7 +129,7 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
       <div class="media-image">
-      <a href="single.html"><img src="images/me_4.jpg" alt="Image" class="img-fluid"></a>
+      <img src="images/me_4.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Reinforcement Tape </a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
@@ -141,7 +141,7 @@
       </div>
        <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <a href="single.html"><img src="images/me_5.jpg" alt="Image" class="img-fluid"></a>
+      <img src="images/me_5.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Mask Cord</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
