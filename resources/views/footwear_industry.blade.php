@@ -148,17 +148,17 @@
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="images/tape_11.jpg" alt="Nature" style="width:100%; height: 12em;">
+              <img src="images/tape main image.jpg" alt="Nature" style="width:100%; height: 12em;">
                <div class="caption">
                   <h2 class="font-secondary text-uppercase">Tapes</h2>
                   <p></p>
-                  <p><a href="#" class="btn btn-primary text-white px-4">Learn More</a></p>
+                  <p><a href="/tapes" class="btn btn-primary text-white px-4">Learn More</a></p>
                 </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-                <img src="images/soon.jpg" alt="Fjords" style="width:100%">
+                <img src="images/cords_2.jpeg" alt="Fjords" style="width:100%">
                 <div class="caption">
                   <h2 class="font-secondary text-uppercase">Cords</h2>
                   <p></p>

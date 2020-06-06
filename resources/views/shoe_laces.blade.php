@@ -223,6 +223,15 @@
       </div>
       </div>
       </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_laces_plain.jpg" alt="Image" class="img-fluid" style="width: 20em;height:17.5em; ">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2212</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
       </div>
       </div>
     </div>

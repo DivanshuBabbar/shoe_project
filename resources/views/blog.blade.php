@@ -133,8 +133,97 @@
           </div>
         </div>
       </div>
-   </div>
-<br>
+
+     <div class="site-section">
+       <div class="container">
+      <div class="row mb-5">
+      </div>
+      <div class="row">
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+      <div class="media-image">
+      <img src="images/twill_tape1.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Twill Tapes</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>Note: Twill tapes can be made in spun polyester,cotton,nylon,ployester.</p>
+      <p>Thickness can be varied from 2mm to 24mm</p>
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/spun_polyester25.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/"> Spun Polyester Tape</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>Thickness can be varied from 2mm to 24mm</p>
+      
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+      <div class="media-image">
+      <img src="images/woven45.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Woven Nylon Tape </a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>Thickness can be varied from 2mm to 24mm</p>
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/polyester_tapes11.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Polyester Tape</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+     <p>Thickness can be varied from 2mm to 24mm</p>
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/garment_tags.jpg" alt="Image" class="img-fluid" style="width: 20em;height: 12em;">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Garment Tags</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>Garment Tags can be made in any shape,design,size,color,all as per customer requirement.</p>
+    
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shopping.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Shopping Bag Cord</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+     <p>The cord can be made in any color,width,all as per customer requirement.</p>
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/garment_elastic.jpg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Garment Elastic</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>Garments elasticcan be made in any color,width,all as per customer requirement.</p>
+      <p>Used in shirts,T-shirts,lowers,shorts etc. as per customer requirement.</p>
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+    </div>
+    
    <div class="py-5 bg-primary">
       <div class="container">
         <div class="row align-items-center justify-content-center">
@@ -144,81 +233,81 @@
           </div>
         </div>
       </div>
-    </div>    
+   </div>    
 
   
   
-    <div class="">
-      <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
-    bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
-    </div>
+     <div class="">
+        <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
+       bottom:1%;right: 5px; font-size: 40px; " class="fab fa-whatsapp "></i></a>
+     </div>
 
      <footer class="site-footer bg-dark">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 mb-4 mb-md-0">
-            <h3 class="footer-heading mb-4 text-white">About</h3>
-            <p>We are manufacturers,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.</p>
-            <p><a href="/about" class="btn btn-primary text-white px-4">Read More</a></p>
-          </div>
-          <div class="col-md-5 mb-4 mb-md-0 ml-auto">
-            <div class="row mb-4">
-              <div class="col-md-6">
-                <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
-                  <ul class="list-unstyled">
-                    <li><a href="/welcome">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                    <!-- <li><a href="/blog">Blog</a></li> -->
-                    <li><a href="/contact">Contacts</a></li>
-                    <li><a href="#">Privacy</a></li>
-                  </ul>
-              </div>
-             <div class="col-md-6">
-               <h3 class="footer-heading mb-4 text-white">Accessories</h3>
-                  <ul class="list-unstyled">
-                    <li><a href="/shoe_laces">Shoe Laces</a></li>
-                    <li><a href="/tapes">Tapes</a></li>
-                    <li><a href="#">Cords</a></li>
-                    <!-- <li><a href="#">Round Shoe Laces</a></li> -->
-                  </ul>
-              </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 mb-4 mb-md-0">
+              <h3 class="footer-heading mb-4 text-white">About</h3>
+              <p>We are manufacturers,traders,suppliers and exporters of shoe laces,tapes,cords and other garment accessories.</p>
+              <p><a href="/about" class="btn btn-primary text-white px-4">Read More</a></p>
             </div>
+            <div class="col-md-5 mb-4 mb-md-0 ml-auto">
+              <div class="row mb-4">
+                <div class="col-md-6">
+                  <h3 class="footer-heading mb-4 text-white">Quick Menu</h3>
+                    <ul class="list-unstyled">
+                      <li><a href="/welcome">Home</a></li>
+                      <li><a href="/about">About</a></li>
+                      <!-- <li><a href="/blog">Blog</a></li> -->
+                      <li><a href="/contact">Contacts</a></li>
+                      <li><a href="#">Privacy</a></li>
+                    </ul>
+                </div>
+               <div class="col-md-6">
+                 <h3 class="footer-heading mb-4 text-white">Accessories</h3>
+                    <ul class="list-unstyled">
+                      <li><a href="/shoe_laces">Shoe Laces</a></li>
+                      <li><a href="/tapes">Tapes</a></li>
+                      <li><a href="#">Cords</a></li>
+                      <!-- <li><a href="#">Round Shoe Laces</a></li> -->
+                    </ul>
+                </div>
+              </div>
 
-            <div class="row mb-5">
-              <div class="col-md-12">
-              <h3 class="footer-heading mb-4 text-white">Stay up to date</h3>
-              <form action="#" class="d-flex footer-subscribe">
-                <input type="text" class="form-control rounded-0" placeholder="Enter your email">
-                <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">
-              </form>
-            </div>
-            </div>
-          </div>
-          <div class="col-md-2">
-            <div class="row">
-            <div class="col-md-12"><h3 class="footer-heading mb-4 text-white">Social Icons</h3></div>
-              <div class="col-md-12">
-                <p>
-                  <a href="#" class="pb-2 pr-2 pl-0"><span class="icon-facebook"></span></a>
-                  <a href="#" class="p-2"><span class="icon-twitter"></span></a>
-                  <a href="#" class="p-2"><span class="icon-instagram"></span></a>
-                  <a href="#" class="p-2"><span class="icon-vimeo"></span></a>
-                </p>
+              <div class="row mb-5">
+                <div class="col-md-12">
+                <h3 class="footer-heading mb-4 text-white">Stay up to date</h3>
+                <form action="#" class="d-flex footer-subscribe">
+                  <input type="text" class="form-control rounded-0" placeholder="Enter your email">
+                  <input type="submit" class="btn btn-primary rounded-0" value="Subscribe">
+                </form>
               </div>
+              </div>
+            </div>
+            <div class="col-md-2">
+              <div class="row">
+              <div class="col-md-12"><h3 class="footer-heading mb-4 text-white">Social Icons</h3></div>
+                <div class="col-md-12">
+                  <p>
+                    <a href="#" class="pb-2 pr-2 pl-0"><span class="icon-facebook"></span></a>
+                    <a href="#" class="p-2"><span class="icon-twitter"></span></a>
+                    <a href="#" class="p-2"><span class="icon-instagram"></span></a>
+                    <a href="#" class="p-2"><span class="icon-vimeo"></span></a>
+                  </p>
+                </div>
+            </div>
+            </div>
           </div>
+          <div class="row pt-5 mt-5 text-center">
+            <div class="col-md-12">
+              <p>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | 
+              </p>
+            </div>
           </div>
         </div>
-        <div class="row pt-5 mt-5 text-center">
-          <div class="col-md-12">
-            <p>
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | 
-            </p>
-          </div>
-        </div>
-      </div>
     </footer>
-  </div>
-
+  <!-- </div>
+ -->
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/jquery-ui.js"></script>
