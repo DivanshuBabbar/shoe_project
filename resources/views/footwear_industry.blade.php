@@ -148,7 +148,7 @@
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="images/tape main image.jpg" alt="Nature" style="width:100%; height: 12em;">
+              <img src="images/tape_main_image.jpg" alt="Nature" style="width:100%; height: 12em;">
                <div class="caption">
                   <h2 class="font-secondary text-uppercase">Tapes</h2>
                   <p></p>
