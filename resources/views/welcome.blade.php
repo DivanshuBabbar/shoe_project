@@ -148,7 +148,7 @@
     </div>
   </div>
   <div class="site-half">
-    <div class="img-bg-1" style="background-image: url('images/new_garment.jpg');" data-aos="fade"></div>
+    <div class="img-bg-1" style="background-image: url('images/home_page.jpg');" data-aos="fade"></div>
     <div class="container">
       <div class="row no-gutters align-items-stretch">
         <div class="col-lg-5 ml-lg-auto py-5">

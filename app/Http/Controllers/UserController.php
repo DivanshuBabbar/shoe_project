@@ -13,7 +13,7 @@ class UserController extends Controller
     public function index()
     {
     	return view('/welcome');
-    }
+    } 
 
     public function about()
     {
@@ -84,7 +84,7 @@ class UserController extends Controller
       try {
                 Mail::send(['html'=>'mail'], $data, function($message) use ($data) {
 
-                    $message->to('babbardivanshu@gmail.com', 'mail')->subject
+                    $message->to('enterprisesharsh.84@gmail.com', 'mail')->subject
                         ($data['subject']);
                     $message->from($data['email'],'Client');
                 });
