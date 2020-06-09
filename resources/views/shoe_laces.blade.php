@@ -207,7 +207,7 @@
       </div>
        <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/flat1.jpeg" alt="Image" class="img-fluid">
+      <img src="images/new_pic2.jpeg" alt="Image" class="img-fluid" style="height: 17.5em;">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2210</a></h2>
       <p>Width 6mm.</p>
@@ -216,7 +216,7 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/flat2.jpeg" alt="Image" class="img-fluid">
+      <img src="images/new_pic.jpg" alt="Image" class="img-fluid" style="height: 17.5em;">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2211</a></h2>
       <p>Width 6mm.</p>
@@ -255,7 +255,7 @@
       </div>
       </div>
       </div>
-      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <!-- <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
       <img src="images/20200321_105153.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
@@ -264,7 +264,7 @@
      
       </div>
       </div>
-      </div>
+      </div> -->
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
       <div class="media-image">
       <img src="images/20200321_105356.jpg" alt="Image" class="img-fluid">

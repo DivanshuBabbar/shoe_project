@@ -187,10 +187,10 @@
                   <button type="button" class="btn btn-primary py-2 px-4 text-white send_email">Submit</button>
                 </div>
               </div>
-
-  
             </form>
+            
           </div>
+
           <div class="col-md-5">
             
             <div class="p-4 mb-3 bg-white">
@@ -231,11 +231,17 @@
               <p>Contact us at : <a href="mailto: enterprisesharsh.84@gmail.com">enterprisesharsh.84@gmail.com</a></p>
               
             </div> -->
-
+            <div>
+              <a download="v_card.jpeg" href="images/v_card.jpeg" title="ImageName">
+              <img alt="ImageName" src="images/v_card.jpeg" style="width:21em;">
+              <p>Download Now</p>
+              </a>
+            </div>
           </div>
         </div>
       </div>
     </div>
+
     
      <div class="">
       <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9999667721&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;

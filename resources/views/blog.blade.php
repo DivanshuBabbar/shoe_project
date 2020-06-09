@@ -220,6 +220,18 @@
       </div>
       </div>
       </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/tape_main_image.jpg" alt="Image" class="img-fluid" style="height: 19em;">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Reflector tape</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>This tape is an reflective tape be made in any color,width,all as per customer requirement.</p>
+      
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
       </div>
       </div>
     </div>
