@@ -145,7 +145,7 @@
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Twill Tapes</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
-      <p>Note: Twill tapes can be made in spun polyester,cotton,nylon,ployester.</p>
+      <p>Note: Twill tapes can be made in spunpolyester,cotton,nylon,ployester.</p>
       <p>Thickness can be varied from 2mm to 24mm</p>
       <!-- <p><a href="#">Read More</a></p> -->
       </div>
