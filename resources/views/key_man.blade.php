@@ -157,7 +157,7 @@
 			                  <li>   Education    : Post Graduated</li>
 			                  <li>  Experience: looking after commercial , financial taxation and project finance , associated with concern as consultant Since 1984.</li>
 			               <!--    <li>Mobile : 9350868641, 9811078355</li> -->
-			                  <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li>
+			                 <!--  <li>Email ID: <a href="mailto:Dvndr_Arora@yahoo.com?Subject=Hello%20again" target="_top">Dvndr_Arora@yahoo.com</a></li> -->
 			                </ul> 
 					  </div>
 				   </div>
