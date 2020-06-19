@@ -65,7 +65,10 @@ class UserController extends Controller
         return view('/elastic_item');
     }
 
-
+    public function cords()
+    {
+        return view('/cords');
+    } 
 
     public function mail(Request $request)
     {

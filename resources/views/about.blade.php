@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>shoelacestech</title>
+    <title>Shoe Laces,Garment Tapes - Harsh Enterprises-Delhi,Delhi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta name="description" content="The Concern is Delhi(NCR) based manufacturer , traders and expoters in shoe laces,tapes,cords,elastic,Garment Accessories,Medical equipment accessories">
+    
    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">

@@ -28,5 +28,6 @@ Route::get('/about', 'UserController@about')->name('about');
 Route::post('/admin_email', 'UserController@mail')->name('admin_email');
 Route::get('/medical_equipment', 'UserController@medical_equipment')->name('medical_equipment');
 Route::get('/elastic_item', 'UserController@elastic_item')->name('elastic_item');
+Route::get('/cords', 'UserController@cords')->name('cords');
 
 

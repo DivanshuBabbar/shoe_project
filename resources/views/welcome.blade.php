@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>shoelacestech</title>
+     <title>Shoe Laces,Garment Tapes - Harsh Enterprises-Delhi,Delhi</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
- 
+    <meta name="description" content="The Concern is Delhi(NCR) based manufacturer , traders and expoters in shoe laces,tapes,cords,elastic,Garment Accessories,Medical equipment accessories">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 
@@ -104,7 +104,7 @@
       <div class="site-blocks-cover inner-page overlay theme_context" style="background-image: url(images/theme.jpg);" data-aos="fade" data-stellar-background-ratio="0.5" style="width: 100%;">
          <div class="row align-items-center justify-content-center">
             <div class="col-md-6 text-center" data-aos="fade">
-              <h1 class="font-secondary  font-weight-bold text-uppercase">Harsh Enterprise</h1>
+              <h1 class="font-secondary  font-weight-bold text-uppercase">Harsh Enterprise shoe laces</h1>
                <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">Welcome</span></div>
             </div>
           </div>
