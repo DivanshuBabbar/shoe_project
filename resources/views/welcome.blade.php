@@ -122,8 +122,8 @@
         <p style="text-align: justify;">The Concern is manufacturer , traders and expoters in shoe accessories , textile industry accessories , Garment Accessories and other braided/  weaved industrial products . Catering to needs of O.E manufacturing Companies Since 1964 . Now the third generation has joined & going for modernization Cum Expansion plan . The concern is one of the largest in Delhi & NCR  , has specialisation in Shoe laces , Narrow woven/ Braided Tapes Cords & other Industrial products , Equipment , footwear , garment , health products , automobile industries . The concern is known for its large manufacturing infrastructure , Commitment , Services , Quality Control , Long term business Association , Skilled designer , Innovation , Competitive Product pricing , Professional management. Customer satisfaction is our business moto .</p>
       </div>
       <div class="col-md-2" style="font-size: 22px;"><b>New Arrivals:-</b></div>
-      <div class= "col-md-2 solTitle"><a href= "#" data-source="shoe_laces">Shoe Laces</a></div>
-      <div class= "col-md-2 tape_href"><a href= "#" data-source="tapes">Tapes</a></div>
+      <div class= "col-md-2 solTitle"><a href= "/shoe_laces" data-source="shoe_laces">Shoe Laces</a></div>
+      <div class= "col-md-2 tape_href"><a href= "tapes" data-source="tapes">Tapes</a></div>
     </div>
     
     <h1 style="text-align: center; color: #71bc42 !important;">The Concern Cater Needs Of...</h1><br>
@@ -367,26 +367,6 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
-  <script>
-    $('.solTitle a').click(function(e) {
-      e.preventDefault();
-       localStorage.setItem("animation", true)
-      window.location.href = '/shoe_laces'
-  
-    });
-    if (localStorage.animation && JSON.parse(localStorage.animation)) {
-      $('html, body').animate({
-            scrollTop: $('.show_event').offset().top
-        }, 5000);
-        localStorage.removeItem("animation")
-    }
-  
-  
-    $('.tape_href a').click(function(e) {
-      e.preventDefault();
-       window.location.href = '/tapes'
-    });
-  </script>
 
   </body>
 </html>
