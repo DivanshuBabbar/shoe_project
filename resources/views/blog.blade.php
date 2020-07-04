@@ -216,19 +216,43 @@
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Garment Elastic</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
-      <p>Garments elasticcan be made in any color,width,all as per customer requirement.</p>
+      <p>Garments elastic can can be made in any color,width,all as per customer requirement.</p>
       <p>Used in shirts,T-shirts,lowers,shorts etc. as per customer requirement.</p>
       <!-- <p><a href="#">Read More</a></p> -->
       </div>
       </div>
       </div>
-       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
       <img src="images/tape_main_image.jpg" alt="Image" class="img-fluid" style="height: 19em;">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Reflector tape</a></h2>
       <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
-      <p>This tape is an reflective tape be made in any color,width,all as per customer requirement.</p>
+      <p>This tape is an reflective tape can be made in any color,width,all as per customer requirement.</p>
+      
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/sparx.jpeg" alt="Image" class="img-fluid" style="height: 19em;">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Digitaly printed shoe laces</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>This shoe laces is digitaly printed and can be made in any color as per customer requirement.</p>
+      
+      <!-- <p><a href="#">Read More</a></p> -->
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/sparx1.jpeg" alt="Image" class="img-fluid" style="height: 19em;">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Digitaly printed Tape</a></h2>
+      <!-- <span class="d-block mb-3">By James — Jan. 20, 2019</span> -->
+      <p>This tape is digitaly printed and can be made in any color as per customer requirement.</p>
       
       <!-- <p><a href="#">Read More</a></p> -->
       </div>

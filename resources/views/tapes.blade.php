@@ -159,7 +159,12 @@
           <img src="images/img_107.jpg" alt="Laces" style="width:90%; height: 65%;">
           <div class="media-image-body">
           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4307</h2>
-
+          </div>
+        </div>
+        <div class="column_img show_tapes"  style="height: max-content;">
+          <img src="images/sparx1.jpeg" alt="Laces" style="width:68%;">
+          <div class="media-image-body">
+          <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4308</h2>
           </div>
         </div>
       </div>
@@ -260,6 +265,13 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
+  <script>
+    $(document).ready(function() {
+    $('html, body').animate({
+            scrollTop: $('.show_tapes').offset().top
+        }, 5000);
+  });
+  </script>
 
   
   </body>

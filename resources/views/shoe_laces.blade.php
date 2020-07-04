@@ -232,11 +232,20 @@
       </div>
       </div>
       </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate show_event" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/sparx.jpeg" alt="Image" class="img-fluid" style="width: 20em;height:17.5em; ">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2213</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
       </div>
       </div>
     </div>
 
-  <div class="site-section ">
+  <div class="site-section  ">
     <div class="container">    
       <div class="row">
         <div class="col-md-12 text-center">
@@ -458,7 +467,6 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
-
   
   </body>
 </html>
