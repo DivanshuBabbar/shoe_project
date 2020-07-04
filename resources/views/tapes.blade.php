@@ -162,7 +162,7 @@
           </div>
         </div>
         <div class="column_img show_tapes"  style="height: max-content;">
-          <img src="images/sparx3.jpeg" alt="Laces" style="width:90%;">
+          <img src="images/sparx4.jpeg" alt="Laces" style="width:90%;">
           <div class="media-image-body">
           <h2 class="text-uppercase" style="font-size: 25px;">Article N0. 4308</h2>
           </div>
