@@ -367,6 +367,26 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
+  <script>
+    $('.solTitle a').click(function(e) {
+      e.preventDefault();
+       localStorage.setItem("animation", true)
+      window.location.href = '/shoe_laces'
+  
+    });
+    if (localStorage.animation && JSON.parse(localStorage.animation)) {
+      $('html, body').animate({
+            scrollTop: $('.show_event').offset().top
+        }, 5000);
+        localStorage.removeItem("animation")
+    }
+  
+  
+    $('.tape_href a').click(function(e) {
+      e.preventDefault();
+       window.location.href = '/tapes'
+    });
+  </script>
 
   </body>
 </html>
