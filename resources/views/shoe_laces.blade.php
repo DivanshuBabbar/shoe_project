@@ -275,7 +275,7 @@
       </div> -->
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/new_pic2.jpeg" alt="Image" class="img-fluid" style="height: 17.5em;">
+      <img src="images/new_pic2.jpeg" alt="Image" class="img-fluid" >
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2217</a></h2>
       <p>Width 6mm.</p>
@@ -284,7 +284,7 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/new_pic.jpg" alt="Image" class="img-fluid" style="height: 17.5em;">
+      <img src="images/new_pic.jpg" alt="Image" class="img-fluid">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2218</a></h2>
       <p>Width 6mm.</p>
@@ -293,22 +293,68 @@
       </div>
       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/shoe_laces_plain.jpg" alt="Image" class="img-fluid" style="width: 20em;height:17.5em; ">
+      <img src="images/shoe_laces_plain.jpg" alt="Image" class="img-fluid" style="height: 12.4em;">
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2219</a></h2>
       <p>Width 6mm.</p>
       </div>
       </div>
       </div>
-      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate show_event" data-aos="fade-up" data-aos-delay="200">
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
       <div class="media-image">
-      <img src="images/sparx.jpeg" alt="Image" class="img-fluid" style="width: 20em;height:17.5em; ">
+      <img src="images/sparx.jpeg" alt="Image" class="img-fluid" >
       <div class="media-image-body">
       <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2220</a></h2>
       <p>Width 6mm.</p>
       </div>
       </div>
       </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate show_event" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_flat_new1.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2221</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_flat_new2.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2222</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_flat_new3.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2223</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_flat_new4.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2224</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/shoe_flat_new5.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2225</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+
       </div>
       </div>
     </div>
