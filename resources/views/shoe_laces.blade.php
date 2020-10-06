@@ -354,7 +354,24 @@
       </div>
       </div>
       </div>
-
+      <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/new_1.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2226</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
+       <div class="col-md-6 col-lg-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+      <div class="media-image">
+      <img src="images/new_2.jpeg" alt="Image" class="img-fluid">
+      <div class="media-image-body">
+      <h2 class="font-secondary text-uppercase"><a href="/">Article N0. 2227</a></h2>
+      <p>Width 6mm.</p>
+      </div>
+      </div>
+      </div>
       </div>
       </div>
     </div>
